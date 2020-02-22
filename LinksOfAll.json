@@ -1,0 +1,19 @@
+{
+    "Buzz":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&categories=167",
+    "AlumniSpeaks":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=133",
+    "TechItEasy":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=79"
+    ,"ConnectIons":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=82"
+    ,"DDUSpeaks":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=134"
+    ,"Fiction":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=83"
+    ,"HallOfFame":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=135"   
+    ,"Interview":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=132"
+    ,"LatestArticles":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&per_page=8&fields=id,title,date,categories,link,_links"
+    ,"MoreContent":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=121"
+    ,"NonTech":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=84"
+    ,"OpenLetter":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=90"
+    ,"PharmacyThen&Now":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&categories=129"
+    ,"Tech":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=80"
+    ,"Verses":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=91"
+    ,"WritersLounge":"https://dduconnect.in/wp-json/wp/v2/posts/?_embed&&categories=81"
+}
+
