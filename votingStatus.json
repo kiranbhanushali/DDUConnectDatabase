@@ -1,4 +1,5 @@
 {
     "VotingStatus":true,
-    "Duration":10
+    "Duration":10,
+    "link":'github.io'
 }
