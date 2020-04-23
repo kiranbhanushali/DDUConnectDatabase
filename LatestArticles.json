@@ -1,327 +1,982 @@
 [
-    {
-        "id": 8453,
-        "date": "2020-04-20T20:00:20",
-        "link": "https://dduconnect.in/non-tech/connect-ions/2020/04/20/a-bad-company/",
-        "title": {
-        "rendered": "A Bad Company"
-        },
-        "categories": [
-        82,
-        84
-        ],
-        "_links": {
-        "self": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/posts/8453"
-        }
-        ],
-        "collection": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/posts"
-        }
-        ],
-        "about": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/types/post"
-        }
-        ],
-        "author": [
-        {
-        "embeddable": true,
-        "href": "https://dduconnect.in/wp-json/wp/v2/users/13"
-        }
-        ],
-        "replies": [
-        {
-        "embeddable": true,
-        "href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8453"
-        }
-        ],
-        "version-history": [
-        {
-        "count": 4,
-        "href": "https://dduconnect.in/wp-json/wp/v2/posts/8453/revisions"
-        }
-        ],
-        "predecessor-version": [
-        {
-        "id": 8460,
-        "href": "https://dduconnect.in/wp-json/wp/v2/posts/8453/revisions/8460"
-        }
-        ],
-        "wp:featuredmedia": [
-        {
-        "embeddable": true,
-        "href": "https://dduconnect.in/wp-json/wp/v2/media/8455"
-        }
-        ],
-        "wp:attachment": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8453"
-        }
-        ],
-        "wp:term": [
-        {
-        "taxonomy": "category",
-        "embeddable": true,
-        "href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8453"
-        },
-        {
-        "taxonomy": "post_tag",
-        "embeddable": true,
-        "href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8453"
-        }
-        ],
-        "curies": [
-        {
-        "name": "wp",
-        "href": "https://api.w.org/{rel}",
-        "templated": true
-        }
-        ]
-        },
-        "_embedded": {
-        "author": [
-        {
-        "id": 13,
-        "name": "Nevil Parmar",
-        "url": "",
-        "description": "",
-        "link": "https://dduconnect.in/author/nevil/",
-        "slug": "nevil",
-        "avatar_urls": {
-        "24": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=24&r=g",
-        "48": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=48&r=g",
-        "96": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=96&r=g"
-        },
-        "_links": {
-        "self": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/users/13"
-        }
-        ],
-        "collection": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/users"
-        }
-        ]
-        }
-        }
-        ],
-        "wp:featuredmedia": [
-        {
-        "id": 8455,
-        "date": "2020-04-20T20:08:50",
-        "slug": "connections",
-        "type": "attachment",
-        "link": "https://dduconnect.in/connections/",
-        "title": {
-        "rendered": "Connections"
-        },
-        "author": 13,
-        "caption": {
-        "rendered": ""
-        },
-        "alt_text": "",
-        "media_type": "image",
-        "mime_type": "image/png",
-        "media_details": {
-        "width": 1920,
-        "height": 600,
-        "file": "2020/04/Connections.png",
-        "sizes": {
-        "medium": {
-        "file": "Connections-300x300.png",
-        "width": 300,
-        "height": 300,
-        "mime_type": "image/png",
-        "source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-300x300.png"
-        },
-        "large": {
-        "file": "Connections-1024x600.png",
-        "width": 1024,
-        "height": 600,
-        "mime_type": "image/png",
-        "source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-1024x600.png"
-        },
-        "thumbnail": {
-        "file": "Connections-150x150.png",
-        "width": 150,
-        "height": 150,
-        "mime_type": "image/png",
-        "source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-150x150.png"
-        },
-        "medium_large": {
-        "file": "Connections-768x600.png",
-        "width": 768,
-        "height": 600,
-        "mime_type": "image/png",
-        "source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-768x600.png"
-        },
-        "1536x1536": {
-        "file": "Connections-1536x480.png",
-        "width": 1536,
-        "height": 480,
-        "mime_type": "image/png",
-        "source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-1536x480.png"
-        },
-        "post-thumbnail": {
-        "file": "Connections-280x180.png",
-        "width": 280,
-        "height": 180,
-        "mime_type": "image/png",
-        "source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-280x180.png"
-        },
-        "awsm_team": {
-        "file": "Connections-500x500.png",
-        "width": 500,
-        "height": 500,
-        "mime_type": "image/png",
-        "source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-500x500.png"
-        },
-        "full": {
-        "file": "Connections.png",
-        "width": 1920,
-        "height": 600,
-        "mime_type": "image/png",
-        "source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections.png"
-        }
-        },
-        "image_meta": {
-        "aperture": "0",
-        "credit": "",
-        "camera": "",
-        "caption": "",
-        "created_timestamp": "0",
-        "copyright": "",
-        "focal_length": "0",
-        "iso": "0",
-        "shutter_speed": "0",
-        "title": "",
-        "orientation": "0",
-        "keywords": []
-        }
-        },
-        "source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections.png",
-        "_links": {
-        "self": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/media/8455"
-        }
-        ],
-        "collection": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/media"
-        }
-        ],
-        "about": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
-        }
-        ],
-        "author": [
-        {
-        "embeddable": true,
-        "href": "https://dduconnect.in/wp-json/wp/v2/users/13"
-        }
-        ],
-        "replies": [
-        {
-        "embeddable": true,
-        "href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8455"
-        }
-        ]
-        }
-        }
-        ],
-        "wp:term": [
-        [
-        {
-        "id": 82,
-        "link": "https://dduconnect.in/category/non-tech/connect-ions/",
-        "name": "Connect-ions",
-        "slug": "connect-ions",
-        "taxonomy": "category",
-        "_links": {
-        "self": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/categories/82"
-        }
-        ],
-        "collection": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/categories"
-        }
-        ],
-        "about": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
-        }
-        ],
-        "up": [
-        {
-        "embeddable": true,
-        "href": "https://dduconnect.in/wp-json/wp/v2/categories/84"
-        }
-        ],
-        "wp:post_type": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=82"
-        }
-        ],
-        "curies": [
-        {
-        "name": "wp",
-        "href": "https://api.w.org/{rel}",
-        "templated": true
-        }
-        ]
-        }
-        },
-        {
-        "id": 84,
-        "link": "https://dduconnect.in/category/non-tech/",
-        "name": "Non-Tech",
-        "slug": "non-tech",
-        "taxonomy": "category",
-        "_links": {
-        "self": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/categories/84"
-        }
-        ],
-        "collection": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/categories"
-        }
-        ],
-        "about": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
-        }
-        ],
-        "wp:post_type": [
-        {
-        "href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=84"
-        }
-        ],
-        "curies": [
-        {
-        "name": "wp",
-        "href": "https://api.w.org/{rel}",
-        "templated": true
-        }
-        ]
-        }
-        }
-        ],
-        []
-        ]
-        }
-        },
-    
-    {
+{
+"id": 8468,
+"date": "2020-04-23T18:19:11",
+"link": "https://dduconnect.in/tech/tech-it-easy/2020/04/23/double-helical-mof-the-next-gen-semiconductor/",
+"title": {
+"rendered": "Double helical MOF- the next-gen semiconductor"
+},
+"categories": [
+79,
+80
+],
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8468"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/post"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8468"
+}
+],
+"version-history": [
+{
+"count": 4,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8468/revisions"
+}
+],
+"predecessor-version": [
+{
+"id": 8473,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8468/revisions/8473"
+}
+],
+"wp:featuredmedia": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8469"
+}
+],
+"wp:attachment": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8468"
+}
+],
+"wp:term": [
+{
+"taxonomy": "category",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8468"
+},
+{
+"taxonomy": "post_tag",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8468"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+},
+"_embedded": {
+"author": [
+{
+"id": 14,
+"name": "Kiran Bhanushali",
+"url": "",
+"description": "",
+"link": "https://dduconnect.in/author/kiran/",
+"slug": "kiran",
+"avatar_urls": {
+"24": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=24&r=g",
+"48": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=48&r=g",
+"96": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=96&r=g"
+},
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users"
+}
+]
+}
+}
+],
+"wp:featuredmedia": [
+{
+"id": 8469,
+"date": "2020-04-23T18:10:12",
+"slug": "double-helical-mof",
+"type": "attachment",
+"link": "https://dduconnect.in/tech/tech-it-easy/2020/04/23/double-helical-mof-the-next-gen-semiconductor/attachment/double-helical-mof/",
+"title": {
+"rendered": "Double helical mof"
+},
+"author": 14,
+"caption": {
+"rendered": ""
+},
+"alt_text": "",
+"media_type": "image",
+"mime_type": "image/png",
+"media_details": {
+"width": 5660,
+"height": 2098,
+"file": "2020/04/Double-helical-mof.png",
+"sizes": {
+"medium": {
+"file": "Double-helical-mof-300x300.png",
+"width": 300,
+"height": 300,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof-300x300.png"
+},
+"large": {
+"file": "Double-helical-mof-1024x1024.png",
+"width": 1024,
+"height": 1024,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof-1024x1024.png"
+},
+"thumbnail": {
+"file": "Double-helical-mof-150x150.png",
+"width": 150,
+"height": 150,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof-150x150.png"
+},
+"medium_large": {
+"file": "Double-helical-mof-768x768.png",
+"width": 768,
+"height": 768,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof-768x768.png"
+},
+"1536x1536": {
+"file": "Double-helical-mof-1536x569.png",
+"width": 1536,
+"height": 569,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof-1536x569.png"
+},
+"2048x2048": {
+"file": "Double-helical-mof-2048x759.png",
+"width": 2048,
+"height": 759,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof-2048x759.png"
+},
+"post-thumbnail": {
+"file": "Double-helical-mof-280x180.png",
+"width": 280,
+"height": 180,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof-280x180.png"
+},
+"awsm_team": {
+"file": "Double-helical-mof-500x500.png",
+"width": 500,
+"height": 500,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof-500x500.png"
+},
+"full": {
+"file": "Double-helical-mof.png",
+"width": 5660,
+"height": 2098,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof.png"
+}
+},
+"image_meta": {
+"aperture": "0",
+"credit": "",
+"camera": "",
+"caption": "",
+"created_timestamp": "0",
+"copyright": "",
+"focal_length": "0",
+"iso": "0",
+"shutter_speed": "0",
+"title": "",
+"orientation": "0",
+"keywords": []
+}
+},
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Double-helical-mof.png",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8469"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8469"
+}
+]
+}
+}
+],
+"wp:term": [
+[
+{
+"id": 79,
+"link": "https://dduconnect.in/category/tech/tech-it-easy/",
+"name": "'TECH' It Easy",
+"slug": "tech-it-easy",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/79"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"up": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/80"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=79"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 80,
+"link": "https://dduconnect.in/category/tech/",
+"name": "Tech",
+"slug": "tech",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/80"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=80"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
+],
+[]
+]
+}
+},
+{
+"id": 8463,
+"date": "2020-04-23T17:57:41",
+"link": "https://dduconnect.in/tech/tech-it-easy/2020/04/23/neurons-and-the-internet/",
+"title": {
+"rendered": "Neurons and the Internet"
+},
+"categories": [
+79,
+80
+],
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8463"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/post"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8463"
+}
+],
+"version-history": [
+{
+"count": 2,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8463/revisions"
+}
+],
+"predecessor-version": [
+{
+"id": 8467,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8463/revisions/8467"
+}
+],
+"wp:featuredmedia": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8465"
+}
+],
+"wp:attachment": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8463"
+}
+],
+"wp:term": [
+{
+"taxonomy": "category",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8463"
+},
+{
+"taxonomy": "post_tag",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8463"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+},
+"_embedded": {
+"author": [
+{
+"id": 14,
+"name": "Kiran Bhanushali",
+"url": "",
+"description": "",
+"link": "https://dduconnect.in/author/kiran/",
+"slug": "kiran",
+"avatar_urls": {
+"24": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=24&r=g",
+"48": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=48&r=g",
+"96": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=96&r=g"
+},
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users"
+}
+]
+}
+}
+],
+"wp:featuredmedia": [
+{
+"id": 8465,
+"date": "2020-04-23T17:56:40",
+"slug": "neurons-and-the-internet",
+"type": "attachment",
+"link": "https://dduconnect.in/tech/tech-it-easy/2020/04/23/neurons-and-the-internet/attachment/neurons-and-the-internet/",
+"title": {
+"rendered": "neurons and the internet"
+},
+"author": 14,
+"caption": {
+"rendered": ""
+},
+"alt_text": "",
+"media_type": "image",
+"mime_type": "image/png",
+"media_details": {
+"width": 2422,
+"height": 769,
+"file": "2020/04/neurons-and-the-internet.png",
+"sizes": {
+"medium": {
+"file": "neurons-and-the-internet-300x300.png",
+"width": 300,
+"height": 300,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet-300x300.png"
+},
+"large": {
+"file": "neurons-and-the-internet-1024x769.png",
+"width": 1024,
+"height": 769,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet-1024x769.png"
+},
+"thumbnail": {
+"file": "neurons-and-the-internet-150x150.png",
+"width": 150,
+"height": 150,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet-150x150.png"
+},
+"medium_large": {
+"file": "neurons-and-the-internet-768x768.png",
+"width": 768,
+"height": 768,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet-768x768.png"
+},
+"1536x1536": {
+"file": "neurons-and-the-internet-1536x488.png",
+"width": 1536,
+"height": 488,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet-1536x488.png"
+},
+"2048x2048": {
+"file": "neurons-and-the-internet-2048x650.png",
+"width": 2048,
+"height": 650,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet-2048x650.png"
+},
+"post-thumbnail": {
+"file": "neurons-and-the-internet-280x180.png",
+"width": 280,
+"height": 180,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet-280x180.png"
+},
+"awsm_team": {
+"file": "neurons-and-the-internet-500x500.png",
+"width": 500,
+"height": 500,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet-500x500.png"
+},
+"full": {
+"file": "neurons-and-the-internet.png",
+"width": 2422,
+"height": 769,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet.png"
+}
+},
+"image_meta": {
+"aperture": "0",
+"credit": "",
+"camera": "",
+"caption": "",
+"created_timestamp": "0",
+"copyright": "",
+"focal_length": "0",
+"iso": "0",
+"shutter_speed": "0",
+"title": "",
+"orientation": "0",
+"keywords": []
+}
+},
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/neurons-and-the-internet.png",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8465"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8465"
+}
+]
+}
+}
+],
+"wp:term": [
+[
+{
+"id": 79,
+"link": "https://dduconnect.in/category/tech/tech-it-easy/",
+"name": "'TECH' It Easy",
+"slug": "tech-it-easy",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/79"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"up": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/80"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=79"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 80,
+"link": "https://dduconnect.in/category/tech/",
+"name": "Tech",
+"slug": "tech",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/80"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=80"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
+],
+[]
+]
+}
+},
+{
+"id": 8453,
+"date": "2020-04-20T20:00:20",
+"link": "https://dduconnect.in/non-tech/connect-ions/2020/04/20/a-bad-company/",
+"title": {
+"rendered": "A Bad Company"
+},
+"categories": [
+82,
+84
+],
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8453"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/post"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/13"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8453"
+}
+],
+"version-history": [
+{
+"count": 4,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8453/revisions"
+}
+],
+"predecessor-version": [
+{
+"id": 8460,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8453/revisions/8460"
+}
+],
+"wp:featuredmedia": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8455"
+}
+],
+"wp:attachment": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8453"
+}
+],
+"wp:term": [
+{
+"taxonomy": "category",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8453"
+},
+{
+"taxonomy": "post_tag",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8453"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+},
+"_embedded": {
+"author": [
+{
+"id": 13,
+"name": "Nevil Parmar",
+"url": "",
+"description": "",
+"link": "https://dduconnect.in/author/nevil/",
+"slug": "nevil",
+"avatar_urls": {
+"24": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=24&r=g",
+"48": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=48&r=g",
+"96": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=96&r=g"
+},
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users/13"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users"
+}
+]
+}
+}
+],
+"wp:featuredmedia": [
+{
+"id": 8455,
+"date": "2020-04-20T20:08:50",
+"slug": "connections",
+"type": "attachment",
+"link": "https://dduconnect.in/connections/",
+"title": {
+"rendered": "Connections"
+},
+"author": 13,
+"caption": {
+"rendered": ""
+},
+"alt_text": "",
+"media_type": "image",
+"mime_type": "image/png",
+"media_details": {
+"width": 1920,
+"height": 600,
+"file": "2020/04/Connections.png",
+"sizes": {
+"medium": {
+"file": "Connections-300x300.png",
+"width": 300,
+"height": 300,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-300x300.png"
+},
+"large": {
+"file": "Connections-1024x600.png",
+"width": 1024,
+"height": 600,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-1024x600.png"
+},
+"thumbnail": {
+"file": "Connections-150x150.png",
+"width": 150,
+"height": 150,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-150x150.png"
+},
+"medium_large": {
+"file": "Connections-768x600.png",
+"width": 768,
+"height": 600,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-768x600.png"
+},
+"1536x1536": {
+"file": "Connections-1536x480.png",
+"width": 1536,
+"height": 480,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-1536x480.png"
+},
+"post-thumbnail": {
+"file": "Connections-280x180.png",
+"width": 280,
+"height": 180,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-280x180.png"
+},
+"awsm_team": {
+"file": "Connections-500x500.png",
+"width": 500,
+"height": 500,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections-500x500.png"
+},
+"full": {
+"file": "Connections.png",
+"width": 1920,
+"height": 600,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections.png"
+}
+},
+"image_meta": {
+"aperture": "0",
+"credit": "",
+"camera": "",
+"caption": "",
+"created_timestamp": "0",
+"copyright": "",
+"focal_length": "0",
+"iso": "0",
+"shutter_speed": "0",
+"title": "",
+"orientation": "0",
+"keywords": []
+}
+},
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/Connections.png",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8455"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/13"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8455"
+}
+]
+}
+}
+],
+"wp:term": [
+[
+{
+"id": 82,
+"link": "https://dduconnect.in/category/non-tech/connect-ions/",
+"name": "Connect-ions",
+"slug": "connect-ions",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/82"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"up": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/84"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=82"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 84,
+"link": "https://dduconnect.in/category/non-tech/",
+"name": "Non-Tech",
+"slug": "non-tech",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/84"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=84"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
+],
+[]
+]
+}
+},
+{
 "id": 8444,
 "date": "2020-04-18T15:24:10",
 "link": "https://dduconnect.in/non-tech/2020/04/18/narco-the-truth/",
@@ -634,5 +1289,1189 @@
 []
 ]
 }
+},
+{
+"id": 8321,
+"date": "2020-03-30T17:35:24",
+"link": "https://dduconnect.in/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu/2020/03/30/%e0%aa%b0%e0%ab%80%e0%aa%aa%e0%ab%8d%e0%aa%b0%e0%aa%be%e0%aa%87%e0%aa%9d-%e0%aa%97%e0%ab%80%e0%aa%a4%e0%ab%8b-%e0%aa%b8%e0%aa%be%e0%aa%a5%e0%ab%87%e0%aa%a8%e0%ab%81%e0%aa%82-%e0%aa%9c%e0%ab%8b/",
+"title": {
+"rendered": "રીપ્રાઇઝ ગીતો સાથેનું જોડાણ"
+},
+"categories": [
+173
+],
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8321"
 }
-,{"id":8321,"date":"2020-03-30T17:35:24","link":"https:\/\/dduconnect.in\/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu\/2020\/03\/30\/%e0%aa%b0%e0%ab%80%e0%aa%aa%e0%ab%8d%e0%aa%b0%e0%aa%be%e0%aa%87%e0%aa%9d-%e0%aa%97%e0%ab%80%e0%aa%a4%e0%ab%8b-%e0%aa%b8%e0%aa%be%e0%aa%a5%e0%ab%87%e0%aa%a8%e0%ab%81%e0%aa%82-%e0%aa%9c%e0%ab%8b\/","title":{"rendered":"\u0ab0\u0ac0\u0aaa\u0acd\u0ab0\u0abe\u0a87\u0a9d \u0a97\u0ac0\u0aa4\u0acb \u0ab8\u0abe\u0aa5\u0ac7\u0aa8\u0ac1\u0a82 \u0a9c\u0acb\u0aa1\u0abe\u0aa3"},"categories":[173],"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8321"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/13"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8321"}],"version-history":[{"count":4,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8321\/revisions"}],"predecessor-version":[{"id":8327,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8321\/revisions\/8327"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8323"}],"wp:attachment":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media?parent=8321"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories?post=8321"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/tags?post=8321"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":13,"name":"Nevil Parmar","url":"","description":"","link":"https:\/\/dduconnect.in\/author\/nevil\/","slug":"nevil","avatar_urls":{"24":"https:\/\/secure.gravatar.com\/avatar\/bd9bd77d6122ad2d0c2f5703ed76555f?s=24&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/bd9bd77d6122ad2d0c2f5703ed76555f?s=48&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/bd9bd77d6122ad2d0c2f5703ed76555f?s=96&r=g"},"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/13"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users"}]}}],"wp:featuredmedia":[{"id":8323,"date":"2020-03-30T17:36:36","slug":"gujrati-page","type":"attachment","link":"https:\/\/dduconnect.in\/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu\/2020\/03\/30\/%e0%aa%b0%e0%ab%80%e0%aa%aa%e0%ab%8d%e0%aa%b0%e0%aa%be%e0%aa%87%e0%aa%9d-%e0%aa%97%e0%ab%80%e0%aa%a4%e0%ab%8b-%e0%aa%b8%e0%aa%be%e0%aa%a5%e0%ab%87%e0%aa%a8%e0%ab%81%e0%aa%82-%e0%aa%9c%e0%ab%8b\/attachment\/gujrati-page\/","title":{"rendered":"GUJRATI-Page"},"author":13,"caption":{"rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":1920,"height":600,"file":"2020\/03\/GUJRATI-Page.jpg","sizes":{"medium":{"file":"GUJRATI-Page-300x300.jpg","width":300,"height":300,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/GUJRATI-Page-300x300.jpg"},"large":{"file":"GUJRATI-Page-1024x600.jpg","width":1024,"height":600,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/GUJRATI-Page-1024x600.jpg"},"thumbnail":{"file":"GUJRATI-Page-150x150.jpg","width":150,"height":150,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/GUJRATI-Page-150x150.jpg"},"medium_large":{"file":"GUJRATI-Page-768x600.jpg","width":768,"height":600,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/GUJRATI-Page-768x600.jpg"},"1536x1536":{"file":"GUJRATI-Page-1536x480.jpg","width":1536,"height":480,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/GUJRATI-Page-1536x480.jpg"},"post-thumbnail":{"file":"GUJRATI-Page-280x180.jpg","width":280,"height":180,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/GUJRATI-Page-280x180.jpg"},"awsm_team":{"file":"GUJRATI-Page-500x500.jpg","width":500,"height":500,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/GUJRATI-Page-500x500.jpg"},"full":{"file":"GUJRATI-Page.jpg","width":1920,"height":600,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/GUJRATI-Page.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1","keywords":[]}},"source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/GUJRATI-Page.jpg","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8323"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/13"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8323"}]}}],"wp:term":[[{"id":173,"link":"https:\/\/dduconnect.in\/category\/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu\/","name":"\u0a86\u0aaa\u0aa3\u0ac0 \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0, \u0a86\u0aaa\u0aa3\u0ac1\u0a82 \u0a97\u0acc\u0ab0\u0ab5","slug":"%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/173"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=173"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}],[]]}},{"id":8308,"date":"2020-03-30T16:46:18","link":"https:\/\/dduconnect.in\/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu\/2020\/03\/30\/%e0%aa%aa%e0%ab%8d%e0%aa%b0%e0%aa%b6%e0%ab%8d%e0%aa%a8%e0%aa%be%e0%aa%b0%e0%ab%8d%e0%aa%a5\/","title":{"rendered":"\u0aaa\u0acd\u0ab0\u0ab6\u0acd\u0aa8\u0abe\u0ab0\u0acd\u0aa5"},"categories":[173],"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8308"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/13"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8308"}],"version-history":[{"count":7,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8308\/revisions"}],"predecessor-version":[{"id":8326,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8308\/revisions\/8326"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8318"}],"wp:attachment":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media?parent=8308"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories?post=8308"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/tags?post=8308"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":13,"name":"Nevil Parmar","url":"","description":"","link":"https:\/\/dduconnect.in\/author\/nevil\/","slug":"nevil","avatar_urls":{"24":"https:\/\/secure.gravatar.com\/avatar\/bd9bd77d6122ad2d0c2f5703ed76555f?s=24&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/bd9bd77d6122ad2d0c2f5703ed76555f?s=48&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/bd9bd77d6122ad2d0c2f5703ed76555f?s=96&r=g"},"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/13"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users"}]}}],"wp:featuredmedia":[{"id":8318,"date":"2020-03-30T17:08:39","slug":"question","type":"attachment","link":"https:\/\/dduconnect.in\/question\/","title":{"rendered":"Question"},"author":13,"caption":{"rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":1920,"height":600,"file":"2020\/03\/Question.jpg","sizes":{"medium":{"file":"Question-300x300.jpg","width":300,"height":300,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Question-300x300.jpg"},"large":{"file":"Question-1024x600.jpg","width":1024,"height":600,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Question-1024x600.jpg"},"thumbnail":{"file":"Question-150x150.jpg","width":150,"height":150,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Question-150x150.jpg"},"medium_large":{"file":"Question-768x600.jpg","width":768,"height":600,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Question-768x600.jpg"},"1536x1536":{"file":"Question-1536x480.jpg","width":1536,"height":480,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Question-1536x480.jpg"},"post-thumbnail":{"file":"Question-280x180.jpg","width":280,"height":180,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Question-280x180.jpg"},"awsm_team":{"file":"Question-500x500.jpg","width":500,"height":500,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Question-500x500.jpg"},"full":{"file":"Question.jpg","width":1920,"height":600,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Question.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}},"source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Question.jpg","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8318"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/13"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8318"}]}}],"wp:term":[[{"id":173,"link":"https:\/\/dduconnect.in\/category\/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu\/","name":"\u0a86\u0aaa\u0aa3\u0ac0 \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0, \u0a86\u0aaa\u0aa3\u0ac1\u0a82 \u0a97\u0acc\u0ab0\u0ab5","slug":"%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/173"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=173"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}],[]]}},{"id":8300,"date":"2020-03-28T13:23:15","link":"https:\/\/dduconnect.in\/non-tech\/2020\/03\/28\/an-open-letter-to-augustus-waters-and-hazel-grace\/","title":{"rendered":"AN OPEN LETTER TO AUGUSTUS WATERS AND HAZEL GRACE"},"categories":[84,90],"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8300"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/15"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8300"}],"version-history":[{"count":4,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8300\/revisions"}],"predecessor-version":[{"id":8306,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8300\/revisions\/8306"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8302"}],"wp:attachment":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media?parent=8300"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories?post=8300"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/tags?post=8300"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":15,"name":"Harshal Parmecha","url":"","description":"","link":"https:\/\/dduconnect.in\/author\/harshal\/","slug":"harshal","avatar_urls":{"24":"https:\/\/secure.gravatar.com\/avatar\/1fdd2f9b1af2e03f09c831a026734f42?s=24&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/1fdd2f9b1af2e03f09c831a026734f42?s=48&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/1fdd2f9b1af2e03f09c831a026734f42?s=96&r=g"},"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/15"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users"}]}}],"wp:featuredmedia":[{"id":8302,"date":"2020-03-28T13:24:14","slug":"oopenletter","type":"attachment","link":"https:\/\/dduconnect.in\/non-tech\/2020\/03\/28\/an-open-letter-to-augustus-waters-and-hazel-grace\/attachment\/oopenletter\/","title":{"rendered":"OOpenletter"},"author":15,"caption":{"rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/png","media_details":{"width":1938,"height":603,"file":"2020\/03\/OOpenletter-.png","sizes":{"medium":{"file":"OOpenletter--300x300.png","width":300,"height":300,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/OOpenletter--300x300.png"},"large":{"file":"OOpenletter--1024x603.png","width":1024,"height":603,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/OOpenletter--1024x603.png"},"thumbnail":{"file":"OOpenletter--150x150.png","width":150,"height":150,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/OOpenletter--150x150.png"},"medium_large":{"file":"OOpenletter--768x603.png","width":768,"height":603,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/OOpenletter--768x603.png"},"1536x1536":{"file":"OOpenletter--1536x478.png","width":1536,"height":478,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/OOpenletter--1536x478.png"},"post-thumbnail":{"file":"OOpenletter--280x180.png","width":280,"height":180,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/OOpenletter--280x180.png"},"awsm_team":{"file":"OOpenletter--500x500.png","width":500,"height":500,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/OOpenletter--500x500.png"},"full":{"file":"OOpenletter-.png","width":1938,"height":603,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/OOpenletter-.png"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}},"source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/OOpenletter-.png","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8302"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/15"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8302"}]}}],"wp:term":[[{"id":84,"link":"https:\/\/dduconnect.in\/category\/non-tech\/","name":"Non-Tech","slug":"non-tech","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=84"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}},{"id":90,"link":"https:\/\/dduconnect.in\/category\/non-tech\/open-letter\/","name":"Open Letter","slug":"open-letter","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/90"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"up":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=90"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}],[]]}},{"id":8289,"date":"2020-03-26T23:56:23","link":"https:\/\/dduconnect.in\/tech\/tech-it-easy\/2020\/03\/26\/accelerator-on-a-chip\/","title":{"rendered":"Accelerator on a chip"},"categories":[79,80],"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8289"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/14"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8289"}],"version-history":[{"count":6,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8289\/revisions"}],"predecessor-version":[{"id":8299,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8289\/revisions\/8299"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8291"}],"wp:attachment":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media?parent=8289"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories?post=8289"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/tags?post=8289"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":14,"name":"Kiran Bhanushali","url":"","description":"","link":"https:\/\/dduconnect.in\/author\/kiran\/","slug":"kiran","avatar_urls":{"24":"https:\/\/secure.gravatar.com\/avatar\/bfc8019b79494e5bffad44ce4dde0028?s=24&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/bfc8019b79494e5bffad44ce4dde0028?s=48&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/bfc8019b79494e5bffad44ce4dde0028?s=96&r=g"},"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/14"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users"}]}}],"wp:featuredmedia":[{"id":8291,"date":"2020-03-26T23:55:59","slug":"img_4917","type":"attachment","link":"https:\/\/dduconnect.in\/tech\/tech-it-easy\/2020\/03\/26\/accelerator-on-a-chip\/attachment\/img_4917\/","title":{"rendered":"IMG_4917"},"author":14,"caption":{"rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":940,"height":528,"file":"2020\/03\/IMG_4917.jpg","sizes":{"medium":{"file":"IMG_4917-300x300.jpg","width":300,"height":300,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/IMG_4917-300x300.jpg"},"thumbnail":{"file":"IMG_4917-150x150.jpg","width":150,"height":150,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/IMG_4917-150x150.jpg"},"medium_large":{"file":"IMG_4917-768x528.jpg","width":768,"height":528,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/IMG_4917-768x528.jpg"},"post-thumbnail":{"file":"IMG_4917-280x180.jpg","width":280,"height":180,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/IMG_4917-280x180.jpg"},"awsm_team":{"file":"IMG_4917-500x500.jpg","width":500,"height":500,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/IMG_4917-500x500.jpg"},"full":{"file":"IMG_4917.jpg","width":940,"height":528,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/IMG_4917.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"1581025003","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}},"source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/IMG_4917.jpg","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8291"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/14"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8291"}]}}],"wp:term":[[{"id":79,"link":"https:\/\/dduconnect.in\/category\/tech\/tech-it-easy\/","name":"'TECH' It Easy","slug":"tech-it-easy","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/79"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"up":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/80"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=79"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}},{"id":80,"link":"https:\/\/dduconnect.in\/category\/tech\/","name":"Tech","slug":"tech","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/80"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=80"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}],[]]}},{"id":8283,"date":"2020-03-26T23:47:30","link":"https:\/\/dduconnect.in\/tech\/tech-it-easy\/2020\/03\/26\/a-manmade-species\/","title":{"rendered":"A Manmade species"},"categories":[79,80],"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8283"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/14"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8283"}],"version-history":[{"count":3,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8283\/revisions"}],"predecessor-version":[{"id":8298,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8283\/revisions\/8298"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8286"}],"wp:attachment":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media?parent=8283"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories?post=8283"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/tags?post=8283"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":14,"name":"Kiran Bhanushali","url":"","description":"","link":"https:\/\/dduconnect.in\/author\/kiran\/","slug":"kiran","avatar_urls":{"24":"https:\/\/secure.gravatar.com\/avatar\/bfc8019b79494e5bffad44ce4dde0028?s=24&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/bfc8019b79494e5bffad44ce4dde0028?s=48&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/bfc8019b79494e5bffad44ce4dde0028?s=96&r=g"},"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/14"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users"}]}}],"wp:featuredmedia":[{"id":8286,"date":"2020-03-26T23:46:54","slug":"xenobot-organism-pair-800x400_0","type":"attachment","link":"https:\/\/dduconnect.in\/tech\/tech-it-easy\/2020\/03\/26\/a-manmade-species\/attachment\/xenobot-organism-pair-800x400_0\/","title":{"rendered":"xenobot-organism-pair-800x400_0"},"author":14,"caption":{"rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":800,"height":400,"file":"2020\/03\/xenobot-organism-pair-800x400_0.jpg","sizes":{"medium":{"file":"xenobot-organism-pair-800x400_0-300x300.jpg","width":300,"height":300,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/xenobot-organism-pair-800x400_0-300x300.jpg"},"thumbnail":{"file":"xenobot-organism-pair-800x400_0-150x150.jpg","width":150,"height":150,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/xenobot-organism-pair-800x400_0-150x150.jpg"},"medium_large":{"file":"xenobot-organism-pair-800x400_0-768x400.jpg","width":768,"height":400,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/xenobot-organism-pair-800x400_0-768x400.jpg"},"post-thumbnail":{"file":"xenobot-organism-pair-800x400_0-280x180.jpg","width":280,"height":180,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/xenobot-organism-pair-800x400_0-280x180.jpg"},"awsm_team":{"file":"xenobot-organism-pair-800x400_0-500x400.jpg","width":500,"height":400,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/xenobot-organism-pair-800x400_0-500x400.jpg"},"full":{"file":"xenobot-organism-pair-800x400_0.jpg","width":800,"height":400,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/xenobot-organism-pair-800x400_0.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}},"source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/xenobot-organism-pair-800x400_0.jpg","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8286"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/14"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8286"}]}}],"wp:term":[[{"id":79,"link":"https:\/\/dduconnect.in\/category\/tech\/tech-it-easy\/","name":"'TECH' It Easy","slug":"tech-it-easy","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/79"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"up":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/80"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=79"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}},{"id":80,"link":"https:\/\/dduconnect.in\/category\/tech\/","name":"Tech","slug":"tech","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/80"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=80"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}],[]]}},{"id":8243,"date":"2020-03-20T15:44:43","link":"https:\/\/dduconnect.in\/non-tech\/fiction\/2020\/03\/20\/survivor\/","title":{"rendered":"SURVIVOR"},"categories":[83,84],"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8243"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/15"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8243"}],"version-history":[{"count":5,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8243\/revisions"}],"predecessor-version":[{"id":8251,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8243\/revisions\/8251"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8245"}],"wp:attachment":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media?parent=8243"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories?post=8243"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/tags?post=8243"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":15,"name":"Harshal Parmecha","url":"","description":"","link":"https:\/\/dduconnect.in\/author\/harshal\/","slug":"harshal","avatar_urls":{"24":"https:\/\/secure.gravatar.com\/avatar\/1fdd2f9b1af2e03f09c831a026734f42?s=24&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/1fdd2f9b1af2e03f09c831a026734f42?s=48&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/1fdd2f9b1af2e03f09c831a026734f42?s=96&r=g"},"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/15"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users"}]}}],"wp:featuredmedia":[{"id":8245,"date":"2020-03-20T15:44:24","slug":"feb_monthly_task_survivor_3","type":"attachment","link":"https:\/\/dduconnect.in\/non-tech\/fiction\/2020\/03\/20\/survivor\/attachment\/feb_monthly_task_survivor_3\/","title":{"rendered":"Feb_monthly_task_survivor_3"},"author":15,"caption":{"rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":2560,"height":800,"file":"2020\/03\/Feb_monthly_task_survivor_3-scaled.jpg","sizes":{"medium":{"file":"Feb_monthly_task_survivor_3-300x300.jpg","width":300,"height":300,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-300x300.jpg"},"large":{"file":"Feb_monthly_task_survivor_3-1024x1024.jpg","width":1024,"height":1024,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-1024x1024.jpg"},"thumbnail":{"file":"Feb_monthly_task_survivor_3-150x150.jpg","width":150,"height":150,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-150x150.jpg"},"medium_large":{"file":"Feb_monthly_task_survivor_3-768x768.jpg","width":768,"height":768,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-768x768.jpg"},"1536x1536":{"file":"Feb_monthly_task_survivor_3-1536x480.jpg","width":1536,"height":480,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-1536x480.jpg"},"2048x2048":{"file":"Feb_monthly_task_survivor_3-2048x640.jpg","width":2048,"height":640,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-2048x640.jpg"},"post-thumbnail":{"file":"Feb_monthly_task_survivor_3-280x180.jpg","width":280,"height":180,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-280x180.jpg"},"awsm_team":{"file":"Feb_monthly_task_survivor_3-500x500.jpg","width":500,"height":500,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-500x500.jpg"},"full":{"file":"Feb_monthly_task_survivor_3-scaled.jpg","width":2560,"height":800,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-scaled.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"original_image":"Feb_monthly_task_survivor_3.jpg"},"source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Feb_monthly_task_survivor_3-scaled.jpg","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8245"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/15"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8245"}]}}],"wp:term":[[{"id":83,"link":"https:\/\/dduconnect.in\/category\/non-tech\/fiction\/","name":"Fiction","slug":"fiction","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/83"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"up":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=83"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}},{"id":84,"link":"https:\/\/dduconnect.in\/category\/non-tech\/","name":"Non-Tech","slug":"non-tech","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=84"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}],[]]}},{"id":8160,"date":"2020-03-16T23:40:03","link":"https:\/\/dduconnect.in\/non-tech\/connect-ions\/2020\/03\/16\/staircases-and-i\/","title":{"rendered":"STAIRCASES AND I"},"categories":[82,84],"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8160"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/15"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8160"}],"version-history":[{"count":4,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8160\/revisions"}],"predecessor-version":[{"id":8169,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8160\/revisions\/8169"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8163"}],"wp:attachment":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media?parent=8160"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories?post=8160"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/tags?post=8160"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":15,"name":"Harshal Parmecha","url":"","description":"","link":"https:\/\/dduconnect.in\/author\/harshal\/","slug":"harshal","avatar_urls":{"24":"https:\/\/secure.gravatar.com\/avatar\/1fdd2f9b1af2e03f09c831a026734f42?s=24&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/1fdd2f9b1af2e03f09c831a026734f42?s=48&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/1fdd2f9b1af2e03f09c831a026734f42?s=96&r=g"},"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/15"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users"}]}}],"wp:featuredmedia":[{"id":8163,"date":"2020-03-16T23:41:47","slug":"photo-17-02-20-4-16-39-pm","type":"attachment","link":"https:\/\/dduconnect.in\/non-tech\/connect-ions\/2020\/03\/16\/staircases-and-i\/attachment\/photo-17-02-20-4-16-39-pm\/","title":{"rendered":"Photo 17-02-20, 4 16 39 PM"},"author":15,"caption":{"rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/jpeg","media_details":{"width":2560,"height":803,"file":"2020\/03\/Photo-17-02-20-4-16-39-PM-scaled.jpg","sizes":{"medium":{"file":"Photo-17-02-20-4-16-39-PM-300x300.jpg","width":300,"height":300,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-300x300.jpg"},"large":{"file":"Photo-17-02-20-4-16-39-PM-1024x1024.jpg","width":1024,"height":1024,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-1024x1024.jpg"},"thumbnail":{"file":"Photo-17-02-20-4-16-39-PM-150x150.jpg","width":150,"height":150,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-150x150.jpg"},"medium_large":{"file":"Photo-17-02-20-4-16-39-PM-768x768.jpg","width":768,"height":768,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-768x768.jpg"},"1536x1536":{"file":"Photo-17-02-20-4-16-39-PM-1536x482.jpg","width":1536,"height":482,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-1536x482.jpg"},"2048x2048":{"file":"Photo-17-02-20-4-16-39-PM-2048x642.jpg","width":2048,"height":642,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-2048x642.jpg"},"post-thumbnail":{"file":"Photo-17-02-20-4-16-39-PM-280x180.jpg","width":280,"height":180,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-280x180.jpg"},"awsm_team":{"file":"Photo-17-02-20-4-16-39-PM-500x500.jpg","width":500,"height":500,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-500x500.jpg"},"htevent_img1200x500":{"file":"Photo-17-02-20-4-16-39-PM-1200x500.jpg","width":1200,"height":500,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-1200x500.jpg"},"full":{"file":"Photo-17-02-20-4-16-39-PM-scaled.jpg","width":2560,"height":803,"mime_type":"image\/jpeg","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-scaled.jpg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]},"original_image":"Photo-17-02-20-4-16-39-PM.jpg"},"source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Photo-17-02-20-4-16-39-PM-scaled.jpg","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8163"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/15"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8163"}]}}],"wp:term":[[{"id":82,"link":"https:\/\/dduconnect.in\/category\/non-tech\/connect-ions\/","name":"Connect-ions","slug":"connect-ions","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/82"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"up":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=82"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}},{"id":84,"link":"https:\/\/dduconnect.in\/category\/non-tech\/","name":"Non-Tech","slug":"non-tech","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=84"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}],[]]}},{"id":8133,"date":"2020-03-11T23:16:36","link":"https:\/\/dduconnect.in\/non-tech\/writers-lounge\/2020\/03\/11\/a-story\/","title":{"rendered":"A story"},"categories":[84,81],"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8133"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/post"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/14"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8133"}],"version-history":[{"count":5,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8133\/revisions"}],"predecessor-version":[{"id":8225,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/8133\/revisions\/8225"}],"wp:featuredmedia":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8134"}],"wp:attachment":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media?parent=8133"}],"wp:term":[{"taxonomy":"category","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories?post=8133"},{"taxonomy":"post_tag","embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/tags?post=8133"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]},"_embedded":{"author":[{"id":14,"name":"Kiran Bhanushali","url":"","description":"","link":"https:\/\/dduconnect.in\/author\/kiran\/","slug":"kiran","avatar_urls":{"24":"https:\/\/secure.gravatar.com\/avatar\/bfc8019b79494e5bffad44ce4dde0028?s=24&r=g","48":"https:\/\/secure.gravatar.com\/avatar\/bfc8019b79494e5bffad44ce4dde0028?s=48&r=g","96":"https:\/\/secure.gravatar.com\/avatar\/bfc8019b79494e5bffad44ce4dde0028?s=96&r=g"},"_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/14"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users"}]}}],"wp:featuredmedia":[{"id":8134,"date":"2020-03-11T23:01:50","slug":"gon_kucg","type":"attachment","link":"https:\/\/dduconnect.in\/non-tech\/writers-lounge\/2020\/03\/11\/a-story\/attachment\/gon_kucg\/","title":{"rendered":"Gon_Kucg"},"author":14,"caption":{"rendered":""},"alt_text":"","media_type":"image","mime_type":"image\/png","media_details":{"width":1920,"height":600,"file":"2020\/03\/Gon_Kucg.png","sizes":{"medium":{"file":"Gon_Kucg-300x300.png","width":300,"height":300,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg-300x300.png"},"large":{"file":"Gon_Kucg-1024x600.png","width":1024,"height":600,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg-1024x600.png"},"thumbnail":{"file":"Gon_Kucg-150x150.png","width":150,"height":150,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg-150x150.png"},"medium_large":{"file":"Gon_Kucg-768x600.png","width":768,"height":600,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg-768x600.png"},"1536x1536":{"file":"Gon_Kucg-1536x480.png","width":1536,"height":480,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg-1536x480.png"},"post-thumbnail":{"file":"Gon_Kucg-280x180.png","width":280,"height":180,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg-280x180.png"},"awsm_team":{"file":"Gon_Kucg-500x500.png","width":500,"height":500,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg-500x500.png"},"htevent_img1200x500":{"file":"Gon_Kucg-1200x500.png","width":1200,"height":500,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg-1200x500.png"},"full":{"file":"Gon_Kucg.png","width":1920,"height":600,"mime_type":"image\/png","source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg.png"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}},"source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/03\/Gon_Kucg.png","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/8134"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/attachment"}],"author":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/14"}],"replies":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=8134"}]}}],"wp:term":[[{"id":84,"link":"https:\/\/dduconnect.in\/category\/non-tech\/","name":"Non-Tech","slug":"non-tech","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=84"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}},{"id":81,"link":"https:\/\/dduconnect.in\/category\/non-tech\/writers-lounge\/","name":"Writers' Lounge","slug":"writers-lounge","taxonomy":"category","_links":{"self":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/81"}],"collection":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"}],"up":[{"embeddable":true,"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"}],"wp:post_type":[{"href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=81"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}],[]]}}]
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/post"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/13"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8321"
+}
+],
+"version-history": [
+{
+"count": 3,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8321/revisions"
+}
+],
+"predecessor-version": [
+{
+"id": 8325,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8321/revisions/8325"
+}
+],
+"wp:featuredmedia": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8323"
+}
+],
+"wp:attachment": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8321"
+}
+],
+"wp:term": [
+{
+"taxonomy": "category",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8321"
+},
+{
+"taxonomy": "post_tag",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8321"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+},
+"_embedded": {
+"author": [
+{
+"id": 13,
+"name": "Nevil Parmar",
+"url": "",
+"description": "",
+"link": "https://dduconnect.in/author/nevil/",
+"slug": "nevil",
+"avatar_urls": {
+"24": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=24&r=g",
+"48": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=48&r=g",
+"96": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=96&r=g"
+},
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users/13"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users"
+}
+]
+}
+}
+],
+"wp:featuredmedia": [
+{
+"id": 8323,
+"date": "2020-03-30T17:36:36",
+"slug": "gujrati-page",
+"type": "attachment",
+"link": "https://dduconnect.in/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu/2020/03/30/%e0%aa%b0%e0%ab%80%e0%aa%aa%e0%ab%8d%e0%aa%b0%e0%aa%be%e0%aa%87%e0%aa%9d-%e0%aa%97%e0%ab%80%e0%aa%a4%e0%ab%8b-%e0%aa%b8%e0%aa%be%e0%aa%a5%e0%ab%87%e0%aa%a8%e0%ab%81%e0%aa%82-%e0%aa%9c%e0%ab%8b/attachment/gujrati-page/",
+"title": {
+"rendered": "GUJRATI-Page"
+},
+"author": 13,
+"caption": {
+"rendered": ""
+},
+"alt_text": "",
+"media_type": "image",
+"mime_type": "image/jpeg",
+"media_details": {
+"width": 1920,
+"height": 600,
+"file": "2020/03/GUJRATI-Page.jpg",
+"sizes": {
+"medium": {
+"file": "GUJRATI-Page-300x300.jpg",
+"width": 300,
+"height": 300,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/GUJRATI-Page-300x300.jpg"
+},
+"large": {
+"file": "GUJRATI-Page-1024x600.jpg",
+"width": 1024,
+"height": 600,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/GUJRATI-Page-1024x600.jpg"
+},
+"thumbnail": {
+"file": "GUJRATI-Page-150x150.jpg",
+"width": 150,
+"height": 150,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/GUJRATI-Page-150x150.jpg"
+},
+"medium_large": {
+"file": "GUJRATI-Page-768x600.jpg",
+"width": 768,
+"height": 600,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/GUJRATI-Page-768x600.jpg"
+},
+"1536x1536": {
+"file": "GUJRATI-Page-1536x480.jpg",
+"width": 1536,
+"height": 480,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/GUJRATI-Page-1536x480.jpg"
+},
+"post-thumbnail": {
+"file": "GUJRATI-Page-280x180.jpg",
+"width": 280,
+"height": 180,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/GUJRATI-Page-280x180.jpg"
+},
+"awsm_team": {
+"file": "GUJRATI-Page-500x500.jpg",
+"width": 500,
+"height": 500,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/GUJRATI-Page-500x500.jpg"
+},
+"full": {
+"file": "GUJRATI-Page.jpg",
+"width": 1920,
+"height": 600,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/GUJRATI-Page.jpg"
+}
+},
+"image_meta": {
+"aperture": "0",
+"credit": "",
+"camera": "",
+"caption": "",
+"created_timestamp": "0",
+"copyright": "",
+"focal_length": "0",
+"iso": "0",
+"shutter_speed": "0",
+"title": "",
+"orientation": "1",
+"keywords": []
+}
+},
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/GUJRATI-Page.jpg",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8323"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/13"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8323"
+}
+]
+}
+}
+],
+"wp:term": [
+[
+{
+"id": 173,
+"link": "https://dduconnect.in/category/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu/",
+"name": "આપણી ગુજરાતી, આપણું ગૌરવ",
+"slug": "%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/173"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=173"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
+],
+[]
+]
+}
+},
+{
+"id": 8308,
+"date": "2020-03-30T16:46:18",
+"link": "https://dduconnect.in/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu/2020/03/30/%e0%aa%aa%e0%ab%8d%e0%aa%b0%e0%aa%b6%e0%ab%8d%e0%aa%a8%e0%aa%be%e0%aa%b0%e0%ab%8d%e0%aa%a5/",
+"title": {
+"rendered": "પ્રશ્નાર્થ"
+},
+"categories": [
+173
+],
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8308"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/post"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/13"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8308"
+}
+],
+"version-history": [
+{
+"count": 7,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8308/revisions"
+}
+],
+"predecessor-version": [
+{
+"id": 8328,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8308/revisions/8328"
+}
+],
+"wp:featuredmedia": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8318"
+}
+],
+"wp:attachment": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8308"
+}
+],
+"wp:term": [
+{
+"taxonomy": "category",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8308"
+},
+{
+"taxonomy": "post_tag",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8308"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+},
+"_embedded": {
+"author": [
+{
+"id": 13,
+"name": "Nevil Parmar",
+"url": "",
+"description": "",
+"link": "https://dduconnect.in/author/nevil/",
+"slug": "nevil",
+"avatar_urls": {
+"24": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=24&r=g",
+"48": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=48&r=g",
+"96": "https://secure.gravatar.com/avatar/bd9bd77d6122ad2d0c2f5703ed76555f?s=96&r=g"
+},
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users/13"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users"
+}
+]
+}
+}
+],
+"wp:featuredmedia": [
+{
+"id": 8318,
+"date": "2020-03-30T17:08:39",
+"slug": "question",
+"type": "attachment",
+"link": "https://dduconnect.in/question/",
+"title": {
+"rendered": "Question"
+},
+"author": 13,
+"caption": {
+"rendered": ""
+},
+"alt_text": "",
+"media_type": "image",
+"mime_type": "image/jpeg",
+"media_details": {
+"width": 1920,
+"height": 600,
+"file": "2020/03/Question.jpg",
+"sizes": {
+"medium": {
+"file": "Question-300x300.jpg",
+"width": 300,
+"height": 300,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/Question-300x300.jpg"
+},
+"large": {
+"file": "Question-1024x600.jpg",
+"width": 1024,
+"height": 600,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/Question-1024x600.jpg"
+},
+"thumbnail": {
+"file": "Question-150x150.jpg",
+"width": 150,
+"height": 150,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/Question-150x150.jpg"
+},
+"medium_large": {
+"file": "Question-768x600.jpg",
+"width": 768,
+"height": 600,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/Question-768x600.jpg"
+},
+"1536x1536": {
+"file": "Question-1536x480.jpg",
+"width": 1536,
+"height": 480,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/Question-1536x480.jpg"
+},
+"post-thumbnail": {
+"file": "Question-280x180.jpg",
+"width": 280,
+"height": 180,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/Question-280x180.jpg"
+},
+"awsm_team": {
+"file": "Question-500x500.jpg",
+"width": 500,
+"height": 500,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/Question-500x500.jpg"
+},
+"full": {
+"file": "Question.jpg",
+"width": 1920,
+"height": 600,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/Question.jpg"
+}
+},
+"image_meta": {
+"aperture": "0",
+"credit": "",
+"camera": "",
+"caption": "",
+"created_timestamp": "0",
+"copyright": "",
+"focal_length": "0",
+"iso": "0",
+"shutter_speed": "0",
+"title": "",
+"orientation": "0",
+"keywords": []
+}
+},
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/Question.jpg",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8318"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/13"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8318"
+}
+]
+}
+}
+],
+"wp:term": [
+[
+{
+"id": 173,
+"link": "https://dduconnect.in/category/%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu/",
+"name": "આપણી ગુજરાતી, આપણું ગૌરવ",
+"slug": "%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%80-%e0%aa%97%e0%ab%81%e0%aa%9c%e0%aa%b0%e0%aa%be%e0%aa%a4%e0%ab%80-%e0%aa%86%e0%aa%aa%e0%aa%a3%e0%ab%81%e0%aa%82-%e0%aa%97%e0%ab%8c%e0%aa%b0%e0%aa%b5-gu",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/173"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=173"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
+],
+[]
+]
+}
+},
+{
+"id": 8300,
+"date": "2020-03-28T13:23:15",
+"link": "https://dduconnect.in/non-tech/2020/03/28/an-open-letter-to-augustus-waters-and-hazel-grace/",
+"title": {
+"rendered": "AN OPEN LETTER TO AUGUSTUS WATERS AND HAZEL GRACE"
+},
+"categories": [
+84,
+90
+],
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8300"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/post"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/15"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8300"
+}
+],
+"version-history": [
+{
+"count": 4,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8300/revisions"
+}
+],
+"predecessor-version": [
+{
+"id": 8306,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8300/revisions/8306"
+}
+],
+"wp:featuredmedia": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8302"
+}
+],
+"wp:attachment": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8300"
+}
+],
+"wp:term": [
+{
+"taxonomy": "category",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8300"
+},
+{
+"taxonomy": "post_tag",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8300"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+},
+"_embedded": {
+"author": [
+{
+"id": 15,
+"name": "Harshal Parmecha",
+"url": "",
+"description": "",
+"link": "https://dduconnect.in/author/harshal/",
+"slug": "harshal",
+"avatar_urls": {
+"24": "https://secure.gravatar.com/avatar/1fdd2f9b1af2e03f09c831a026734f42?s=24&r=g",
+"48": "https://secure.gravatar.com/avatar/1fdd2f9b1af2e03f09c831a026734f42?s=48&r=g",
+"96": "https://secure.gravatar.com/avatar/1fdd2f9b1af2e03f09c831a026734f42?s=96&r=g"
+},
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users/15"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users"
+}
+]
+}
+}
+],
+"wp:featuredmedia": [
+{
+"id": 8302,
+"date": "2020-03-28T13:24:14",
+"slug": "oopenletter",
+"type": "attachment",
+"link": "https://dduconnect.in/non-tech/2020/03/28/an-open-letter-to-augustus-waters-and-hazel-grace/attachment/oopenletter/",
+"title": {
+"rendered": "OOpenletter"
+},
+"author": 15,
+"caption": {
+"rendered": ""
+},
+"alt_text": "",
+"media_type": "image",
+"mime_type": "image/png",
+"media_details": {
+"width": 1938,
+"height": 603,
+"file": "2020/03/OOpenletter-.png",
+"sizes": {
+"medium": {
+"file": "OOpenletter--300x300.png",
+"width": 300,
+"height": 300,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/OOpenletter--300x300.png"
+},
+"large": {
+"file": "OOpenletter--1024x603.png",
+"width": 1024,
+"height": 603,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/OOpenletter--1024x603.png"
+},
+"thumbnail": {
+"file": "OOpenletter--150x150.png",
+"width": 150,
+"height": 150,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/OOpenletter--150x150.png"
+},
+"medium_large": {
+"file": "OOpenletter--768x603.png",
+"width": 768,
+"height": 603,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/OOpenletter--768x603.png"
+},
+"1536x1536": {
+"file": "OOpenletter--1536x478.png",
+"width": 1536,
+"height": 478,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/OOpenletter--1536x478.png"
+},
+"post-thumbnail": {
+"file": "OOpenletter--280x180.png",
+"width": 280,
+"height": 180,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/OOpenletter--280x180.png"
+},
+"awsm_team": {
+"file": "OOpenletter--500x500.png",
+"width": 500,
+"height": 500,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/OOpenletter--500x500.png"
+},
+"full": {
+"file": "OOpenletter-.png",
+"width": 1938,
+"height": 603,
+"mime_type": "image/png",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/OOpenletter-.png"
+}
+},
+"image_meta": {
+"aperture": "0",
+"credit": "",
+"camera": "",
+"caption": "",
+"created_timestamp": "0",
+"copyright": "",
+"focal_length": "0",
+"iso": "0",
+"shutter_speed": "0",
+"title": "",
+"orientation": "0",
+"keywords": []
+}
+},
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/OOpenletter-.png",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8302"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/15"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8302"
+}
+]
+}
+}
+],
+"wp:term": [
+[
+{
+"id": 84,
+"link": "https://dduconnect.in/category/non-tech/",
+"name": "Non-Tech",
+"slug": "non-tech",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/84"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=84"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 90,
+"link": "https://dduconnect.in/category/non-tech/open-letter/",
+"name": "Open Letter",
+"slug": "open-letter",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/90"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"up": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/84"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=90"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
+],
+[]
+]
+}
+},
+{
+"id": 8289,
+"date": "2020-03-26T23:56:23",
+"link": "https://dduconnect.in/tech/tech-it-easy/2020/03/26/accelerator-on-a-chip/",
+"title": {
+"rendered": "Accelerator on a chip"
+},
+"categories": [
+79,
+80
+],
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8289"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/post"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8289"
+}
+],
+"version-history": [
+{
+"count": 6,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8289/revisions"
+}
+],
+"predecessor-version": [
+{
+"id": 8299,
+"href": "https://dduconnect.in/wp-json/wp/v2/posts/8289/revisions/8299"
+}
+],
+"wp:featuredmedia": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8291"
+}
+],
+"wp:attachment": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8289"
+}
+],
+"wp:term": [
+{
+"taxonomy": "category",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8289"
+},
+{
+"taxonomy": "post_tag",
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8289"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+},
+"_embedded": {
+"author": [
+{
+"id": 14,
+"name": "Kiran Bhanushali",
+"url": "",
+"description": "",
+"link": "https://dduconnect.in/author/kiran/",
+"slug": "kiran",
+"avatar_urls": {
+"24": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=24&r=g",
+"48": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=48&r=g",
+"96": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=96&r=g"
+},
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/users"
+}
+]
+}
+}
+],
+"wp:featuredmedia": [
+{
+"id": 8291,
+"date": "2020-03-26T23:55:59",
+"slug": "img_4917",
+"type": "attachment",
+"link": "https://dduconnect.in/tech/tech-it-easy/2020/03/26/accelerator-on-a-chip/attachment/img_4917/",
+"title": {
+"rendered": "IMG_4917"
+},
+"author": 14,
+"caption": {
+"rendered": ""
+},
+"alt_text": "",
+"media_type": "image",
+"mime_type": "image/jpeg",
+"media_details": {
+"width": 940,
+"height": 528,
+"file": "2020/03/IMG_4917.jpg",
+"sizes": {
+"medium": {
+"file": "IMG_4917-300x300.jpg",
+"width": 300,
+"height": 300,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-300x300.jpg"
+},
+"thumbnail": {
+"file": "IMG_4917-150x150.jpg",
+"width": 150,
+"height": 150,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-150x150.jpg"
+},
+"medium_large": {
+"file": "IMG_4917-768x528.jpg",
+"width": 768,
+"height": 528,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-768x528.jpg"
+},
+"post-thumbnail": {
+"file": "IMG_4917-280x180.jpg",
+"width": 280,
+"height": 180,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-280x180.jpg"
+},
+"awsm_team": {
+"file": "IMG_4917-500x500.jpg",
+"width": 500,
+"height": 500,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-500x500.jpg"
+},
+"full": {
+"file": "IMG_4917.jpg",
+"width": 940,
+"height": 528,
+"mime_type": "image/jpeg",
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917.jpg"
+}
+},
+"image_meta": {
+"aperture": "0",
+"credit": "",
+"camera": "",
+"caption": "",
+"created_timestamp": "1581025003",
+"copyright": "",
+"focal_length": "0",
+"iso": "0",
+"shutter_speed": "0",
+"title": "",
+"orientation": "0",
+"keywords": []
+}
+},
+"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917.jpg",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media/8291"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/media"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
+}
+],
+"author": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
+}
+],
+"replies": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8291"
+}
+]
+}
+}
+],
+"wp:term": [
+[
+{
+"id": 79,
+"link": "https://dduconnect.in/category/tech/tech-it-easy/",
+"name": "'TECH' It Easy",
+"slug": "tech-it-easy",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/79"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"up": [
+{
+"embeddable": true,
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/80"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=79"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+},
+{
+"id": 80,
+"link": "https://dduconnect.in/category/tech/",
+"name": "Tech",
+"slug": "tech",
+"taxonomy": "category",
+"_links": {
+"self": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories/80"
+}
+],
+"collection": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+}
+],
+"about": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+}
+],
+"wp:post_type": [
+{
+"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=80"
+}
+],
+"curies": [
+{
+"name": "wp",
+"href": "https://api.w.org/{rel}",
+"templated": true
+}
+]
+}
+}
+],
+[]
+]
+}
+}
+]
