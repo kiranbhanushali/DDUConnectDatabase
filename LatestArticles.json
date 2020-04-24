@@ -1,4 +1,272 @@
-[{
+[
+    {
+	"id": 8480,
+	"date": "2020-04-24T12:39:49",
+	"link": "https://dduconnect.in/non-tech/fiction/2020/04/24/the-insecurity-room/",
+	"title": {
+		"rendered": "THE INSECURITY ROOM"
+	},
+	"categories": [
+		83,
+		84
+	],
+	"_links": {
+		"self": [{
+			"href": "https://dduconnect.in/wp-json/wp/v2/posts/8480"
+		}],
+		"collection": [{
+			"href": "https://dduconnect.in/wp-json/wp/v2/posts"
+		}],
+		"about": [{
+			"href": "https://dduconnect.in/wp-json/wp/v2/types/post"
+		}],
+		"author": [{
+			"embeddable": true,
+			"href": "https://dduconnect.in/wp-json/wp/v2/users/15"
+		}],
+		"replies": [{
+			"embeddable": true,
+			"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8480"
+		}],
+		"version-history": [{
+			"count": 3,
+			"href": "https://dduconnect.in/wp-json/wp/v2/posts/8480/revisions"
+		}],
+		"predecessor-version": [{
+			"id": 8485,
+			"href": "https://dduconnect.in/wp-json/wp/v2/posts/8480/revisions/8485"
+		}],
+		"wp:featuredmedia": [{
+			"embeddable": true,
+			"href": "https://dduconnect.in/wp-json/wp/v2/media/8481"
+		}],
+		"wp:attachment": [{
+			"href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8480"
+		}],
+		"wp:term": [{
+				"taxonomy": "category",
+				"embeddable": true,
+				"href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8480"
+			},
+			{
+				"taxonomy": "post_tag",
+				"embeddable": true,
+				"href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8480"
+			}
+		],
+		"curies": [{
+			"name": "wp",
+			"href": "https://api.w.org/{rel}",
+			"templated": true
+		}]
+	},
+	"_embedded": {
+		"author": [{
+			"id": 15,
+			"name": "Harshal Parmecha",
+			"url": "",
+			"description": "",
+			"link": "https://dduconnect.in/author/harshal/",
+			"slug": "harshal",
+			"avatar_urls": {
+				"24": "https://secure.gravatar.com/avatar/1fdd2f9b1af2e03f09c831a026734f42?s=24&r=g",
+				"48": "https://secure.gravatar.com/avatar/1fdd2f9b1af2e03f09c831a026734f42?s=48&r=g",
+				"96": "https://secure.gravatar.com/avatar/1fdd2f9b1af2e03f09c831a026734f42?s=96&r=g"
+			},
+			"_links": {
+				"self": [{
+					"href": "https://dduconnect.in/wp-json/wp/v2/users/15"
+				}],
+				"collection": [{
+					"href": "https://dduconnect.in/wp-json/wp/v2/users"
+				}]
+			}
+		}],
+		"wp:featuredmedia": [{
+			"id": 8481,
+			"date": "2020-04-24T12:39:16",
+			"slug": "theinsecurityroom_jpg-01",
+			"type": "attachment",
+			"link": "https://dduconnect.in/non-tech/fiction/2020/04/24/the-insecurity-room/attachment/theinsecurityroom_jpg-01/",
+			"title": {
+				"rendered": "TheInsecurityRoom_JPG-01"
+			},
+			"author": 15,
+			"caption": {
+				"rendered": ""
+			},
+			"alt_text": "",
+			"media_type": "image",
+			"mime_type": "image/jpeg",
+			"media_details": {
+				"width": 2560,
+				"height": 800,
+				"file": "2020/04/TheInsecurityRoom_JPG-01-scaled.jpg",
+				"sizes": {
+					"medium": {
+						"file": "TheInsecurityRoom_JPG-01-300x300.jpg",
+						"width": 300,
+						"height": 300,
+						"mime_type": "image/jpeg",
+						"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-300x300.jpg"
+					},
+					"large": {
+						"file": "TheInsecurityRoom_JPG-01-1024x1024.jpg",
+						"width": 1024,
+						"height": 1024,
+						"mime_type": "image/jpeg",
+						"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-1024x1024.jpg"
+					},
+					"thumbnail": {
+						"file": "TheInsecurityRoom_JPG-01-150x150.jpg",
+						"width": 150,
+						"height": 150,
+						"mime_type": "image/jpeg",
+						"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-150x150.jpg"
+					},
+					"medium_large": {
+						"file": "TheInsecurityRoom_JPG-01-768x768.jpg",
+						"width": 768,
+						"height": 768,
+						"mime_type": "image/jpeg",
+						"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-768x768.jpg"
+					},
+					"1536x1536": {
+						"file": "TheInsecurityRoom_JPG-01-1536x480.jpg",
+						"width": 1536,
+						"height": 480,
+						"mime_type": "image/jpeg",
+						"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-1536x480.jpg"
+					},
+					"2048x2048": {
+						"file": "TheInsecurityRoom_JPG-01-2048x640.jpg",
+						"width": 2048,
+						"height": 640,
+						"mime_type": "image/jpeg",
+						"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-2048x640.jpg"
+					},
+					"post-thumbnail": {
+						"file": "TheInsecurityRoom_JPG-01-280x180.jpg",
+						"width": 280,
+						"height": 180,
+						"mime_type": "image/jpeg",
+						"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-280x180.jpg"
+					},
+					"awsm_team": {
+						"file": "TheInsecurityRoom_JPG-01-500x500.jpg",
+						"width": 500,
+						"height": 500,
+						"mime_type": "image/jpeg",
+						"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-500x500.jpg"
+					},
+					"full": {
+						"file": "TheInsecurityRoom_JPG-01-scaled.jpg",
+						"width": 2560,
+						"height": 800,
+						"mime_type": "image/jpeg",
+						"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-scaled.jpg"
+					}
+				},
+				"image_meta": {
+					"aperture": "0",
+					"credit": "",
+					"camera": "",
+					"caption": "",
+					"created_timestamp": "0",
+					"copyright": "",
+					"focal_length": "0",
+					"iso": "0",
+					"shutter_speed": "0",
+					"title": "",
+					"orientation": "0",
+					"keywords": []
+				},
+				"original_image": "TheInsecurityRoom_JPG-01.jpg"
+			},
+			"source_url": "https://dduconnect.in/wp-content/uploads/2020/04/TheInsecurityRoom_JPG-01-scaled.jpg",
+			"_links": {
+				"self": [{
+					"href": "https://dduconnect.in/wp-json/wp/v2/media/8481"
+				}],
+				"collection": [{
+					"href": "https://dduconnect.in/wp-json/wp/v2/media"
+				}],
+				"about": [{
+					"href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
+				}],
+				"author": [{
+					"embeddable": true,
+					"href": "https://dduconnect.in/wp-json/wp/v2/users/15"
+				}],
+				"replies": [{
+					"embeddable": true,
+					"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8481"
+				}]
+			}
+		}],
+		"wp:term": [
+			[{
+					"id": 83,
+					"link": "https://dduconnect.in/category/non-tech/fiction/",
+					"name": "Fiction",
+					"slug": "fiction",
+					"taxonomy": "category",
+					"_links": {
+						"self": [{
+							"href": "https://dduconnect.in/wp-json/wp/v2/categories/83"
+						}],
+						"collection": [{
+							"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+						}],
+						"about": [{
+							"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+						}],
+						"up": [{
+							"embeddable": true,
+							"href": "https://dduconnect.in/wp-json/wp/v2/categories/84"
+						}],
+						"wp:post_type": [{
+							"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=83"
+						}],
+						"curies": [{
+							"name": "wp",
+							"href": "https://api.w.org/{rel}",
+							"templated": true
+						}]
+					}
+				},
+				{
+					"id": 84,
+					"link": "https://dduconnect.in/category/non-tech/",
+					"name": "Non-Tech",
+					"slug": "non-tech",
+					"taxonomy": "category",
+					"_links": {
+						"self": [{
+							"href": "https://dduconnect.in/wp-json/wp/v2/categories/84"
+						}],
+						"collection": [{
+							"href": "https://dduconnect.in/wp-json/wp/v2/categories"
+						}],
+						"about": [{
+							"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
+						}],
+						"wp:post_type": [{
+							"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=84"
+						}],
+						"curies": [{
+							"name": "wp",
+							"href": "https://api.w.org/{rel}",
+							"templated": true
+						}]
+					}
+				}
+			],
+			[]
+		]
+	}
+    },
+    {
 		"id": 8468,
 		"date": "2020-04-23T18:19:11",
 		"link": "https://dduconnect.in/tech/tech-it-easy/2020/04/23/double-helical-mof-the-next-gen-semiconductor/",
@@ -1754,249 +2022,5 @@
 			]
 		}
 	},
-	{
-		"id": 8289,
-		"date": "2020-03-26T23:56:23",
-		"link": "https://dduconnect.in/tech/tech-it-easy/2020/03/26/accelerator-on-a-chip/",
-		"title": {
-			"rendered": "Accelerator on a chip"
-		},
-		"categories": [
-			79,
-			80
-		],
-		"_links": {
-			"self": [{
-				"href": "https://dduconnect.in/wp-json/wp/v2/posts/8289"
-			}],
-			"collection": [{
-				"href": "https://dduconnect.in/wp-json/wp/v2/posts"
-			}],
-			"about": [{
-				"href": "https://dduconnect.in/wp-json/wp/v2/types/post"
-			}],
-			"author": [{
-				"embeddable": true,
-				"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
-			}],
-			"replies": [{
-				"embeddable": true,
-				"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8289"
-			}],
-			"version-history": [{
-				"count": 6,
-				"href": "https://dduconnect.in/wp-json/wp/v2/posts/8289/revisions"
-			}],
-			"predecessor-version": [{
-				"id": 8299,
-				"href": "https://dduconnect.in/wp-json/wp/v2/posts/8289/revisions/8299"
-			}],
-			"wp:featuredmedia": [{
-				"embeddable": true,
-				"href": "https://dduconnect.in/wp-json/wp/v2/media/8291"
-			}],
-			"wp:attachment": [{
-				"href": "https://dduconnect.in/wp-json/wp/v2/media?parent=8289"
-			}],
-			"wp:term": [{
-					"taxonomy": "category",
-					"embeddable": true,
-					"href": "https://dduconnect.in/wp-json/wp/v2/categories?post=8289"
-				},
-				{
-					"taxonomy": "post_tag",
-					"embeddable": true,
-					"href": "https://dduconnect.in/wp-json/wp/v2/tags?post=8289"
-				}
-			],
-			"curies": [{
-				"name": "wp",
-				"href": "https://api.w.org/{rel}",
-				"templated": true
-			}]
-		},
-		"_embedded": {
-			"author": [{
-				"id": 14,
-				"name": "Kiran Bhanushali",
-				"url": "",
-				"description": "",
-				"link": "https://dduconnect.in/author/kiran/",
-				"slug": "kiran",
-				"avatar_urls": {
-					"24": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=24&r=g",
-					"48": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=48&r=g",
-					"96": "https://secure.gravatar.com/avatar/bfc8019b79494e5bffad44ce4dde0028?s=96&r=g"
-				},
-				"_links": {
-					"self": [{
-						"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
-					}],
-					"collection": [{
-						"href": "https://dduconnect.in/wp-json/wp/v2/users"
-					}]
-				}
-			}],
-			"wp:featuredmedia": [{
-				"id": 8291,
-				"date": "2020-03-26T23:55:59",
-				"slug": "img_4917",
-				"type": "attachment",
-				"link": "https://dduconnect.in/tech/tech-it-easy/2020/03/26/accelerator-on-a-chip/attachment/img_4917/",
-				"title": {
-					"rendered": "IMG_4917"
-				},
-				"author": 14,
-				"caption": {
-					"rendered": ""
-				},
-				"alt_text": "",
-				"media_type": "image",
-				"mime_type": "image/jpeg",
-				"media_details": {
-					"width": 940,
-					"height": 528,
-					"file": "2020/03/IMG_4917.jpg",
-					"sizes": {
-						"medium": {
-							"file": "IMG_4917-300x300.jpg",
-							"width": 300,
-							"height": 300,
-							"mime_type": "image/jpeg",
-							"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-300x300.jpg"
-						},
-						"thumbnail": {
-							"file": "IMG_4917-150x150.jpg",
-							"width": 150,
-							"height": 150,
-							"mime_type": "image/jpeg",
-							"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-150x150.jpg"
-						},
-						"medium_large": {
-							"file": "IMG_4917-768x528.jpg",
-							"width": 768,
-							"height": 528,
-							"mime_type": "image/jpeg",
-							"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-768x528.jpg"
-						},
-						"post-thumbnail": {
-							"file": "IMG_4917-280x180.jpg",
-							"width": 280,
-							"height": 180,
-							"mime_type": "image/jpeg",
-							"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-280x180.jpg"
-						},
-						"awsm_team": {
-							"file": "IMG_4917-500x500.jpg",
-							"width": 500,
-							"height": 500,
-							"mime_type": "image/jpeg",
-							"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917-500x500.jpg"
-						},
-						"full": {
-							"file": "IMG_4917.jpg",
-							"width": 940,
-							"height": 528,
-							"mime_type": "image/jpeg",
-							"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917.jpg"
-						}
-					},
-					"image_meta": {
-						"aperture": "0",
-						"credit": "",
-						"camera": "",
-						"caption": "",
-						"created_timestamp": "1581025003",
-						"copyright": "",
-						"focal_length": "0",
-						"iso": "0",
-						"shutter_speed": "0",
-						"title": "",
-						"orientation": "0",
-						"keywords": []
-					}
-				},
-				"source_url": "https://dduconnect.in/wp-content/uploads/2020/03/IMG_4917.jpg",
-				"_links": {
-					"self": [{
-						"href": "https://dduconnect.in/wp-json/wp/v2/media/8291"
-					}],
-					"collection": [{
-						"href": "https://dduconnect.in/wp-json/wp/v2/media"
-					}],
-					"about": [{
-						"href": "https://dduconnect.in/wp-json/wp/v2/types/attachment"
-					}],
-					"author": [{
-						"embeddable": true,
-						"href": "https://dduconnect.in/wp-json/wp/v2/users/14"
-					}],
-					"replies": [{
-						"embeddable": true,
-						"href": "https://dduconnect.in/wp-json/wp/v2/comments?post=8291"
-					}]
-				}
-			}],
-			"wp:term": [
-				[{
-						"id": 79,
-						"link": "https://dduconnect.in/category/tech/tech-it-easy/",
-						"name": "'TECH' It Easy",
-						"slug": "tech-it-easy",
-						"taxonomy": "category",
-						"_links": {
-							"self": [{
-								"href": "https://dduconnect.in/wp-json/wp/v2/categories/79"
-							}],
-							"collection": [{
-								"href": "https://dduconnect.in/wp-json/wp/v2/categories"
-							}],
-							"about": [{
-								"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
-							}],
-							"up": [{
-								"embeddable": true,
-								"href": "https://dduconnect.in/wp-json/wp/v2/categories/80"
-							}],
-							"wp:post_type": [{
-								"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=79"
-							}],
-							"curies": [{
-								"name": "wp",
-								"href": "https://api.w.org/{rel}",
-								"templated": true
-							}]
-						}
-					},
-					{
-						"id": 80,
-						"link": "https://dduconnect.in/category/tech/",
-						"name": "Tech",
-						"slug": "tech",
-						"taxonomy": "category",
-						"_links": {
-							"self": [{
-								"href": "https://dduconnect.in/wp-json/wp/v2/categories/80"
-							}],
-							"collection": [{
-								"href": "https://dduconnect.in/wp-json/wp/v2/categories"
-							}],
-							"about": [{
-								"href": "https://dduconnect.in/wp-json/wp/v2/taxonomies/category"
-							}],
-							"wp:post_type": [{
-								"href": "https://dduconnect.in/wp-json/wp/v2/posts?categories=80"
-							}],
-							"curies": [{
-								"name": "wp",
-								"href": "https://api.w.org/{rel}",
-								"templated": true
-							}]
-						}
-					}
-				],
-				[]
-			]
-		}
-	}
+	
 ]
