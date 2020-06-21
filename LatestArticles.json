@@ -2,85 +2,111 @@
 {
    "id":9135,
    "date":"2020-06-20T02:23:04",
-   "link":"https:\/\/dduconnect.in\/non-tech\/2020\/06\/20\/duplicated-an-open-letter-to-bollywood-8988\/",
+   "link":"https:\/\/dduconnect.in\/non-tech\/2020\/06\/20\/an-open-letter-to-billgates\/",
    "title":{
       "rendered":"An Open Letter To Bill Gates"
-   },
+   
+},
    "categories":[
       84,
       90
-   ],
+   
+],
    "_links":{
       "self":[
          {
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/9135"
-         }
-      ],
+         
+}
+      
+],
       "collection":[
          {
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts"
-         }
-      ],
+         
+}
+      
+],
       "about":[
          {
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/post"
-         }
-      ],
+         
+}
+      
+],
       "author":[
          {
             "embeddable":true,
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/20"
-         }
-      ],
+         
+}
+      
+],
       "replies":[
          {
             "embeddable":true,
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=9135"
-         }
-      ],
+         
+}
+      
+],
       "version-history":[
          {
-            "count":7,
+            "count":9,
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/9135\/revisions"
-         }
-      ],
+         
+}
+      
+],
       "predecessor-version":[
          {
-            "id":9152,
-            "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/9135\/revisions\/9152"
-         }
-      ],
+            "id":9154,
+            "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/9135\/revisions\/9154"
+         
+}
+      
+],
       "wp:featuredmedia":[
          {
             "embeddable":true,
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/9138"
-         }
-      ],
+         
+}
+      
+],
       "wp:attachment":[
          {
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media?parent=9135"
-         }
-      ],
+         
+}
+      
+],
       "wp:term":[
          {
             "taxonomy":"category",
             "embeddable":true,
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories?post=9135"
-         },
+         
+},
          {
             "taxonomy":"post_tag",
             "embeddable":true,
             "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/tags?post=9135"
-         }
-      ],
+         
+}
+      
+],
       "curies":[
          {
             "name":"wp",
             "href":"https:\/\/api.w.org\/{rel}",
             "templated":true
-         }
-      ]
-   },
+         
+}
+      
+]
+   
+},
    "_embedded":{
       "author":[
          {
@@ -94,35 +120,45 @@
                "24":"https:\/\/secure.gravatar.com\/avatar\/2fe3b334f2c647d2dbd36a04fdcef1f8?s=24&r=g",
                "48":"https:\/\/secure.gravatar.com\/avatar\/2fe3b334f2c647d2dbd36a04fdcef1f8?s=48&r=g",
                "96":"https:\/\/secure.gravatar.com\/avatar\/2fe3b334f2c647d2dbd36a04fdcef1f8?s=96&r=g"
-            },
+            
+},
             "_links":{
                "self":[
                   {
                      "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/20"
-                  }
-               ],
+                  
+}
+               
+],
                "collection":[
                   {
                      "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users"
-                  }
-               ]
-            }
-         }
-      ],
+                  
+}
+               
+]
+            
+}
+         
+}
+      
+],
       "wp:featuredmedia":[
          {
             "id":9138,
             "date":"2020-06-20T02:31:07",
             "slug":"ol_bill-gates",
             "type":"attachment",
-            "link":"https:\/\/dduconnect.in\/non-tech\/2020\/06\/20\/duplicated-an-open-letter-to-bollywood-8988\/attachment\/ol_bill-gates\/",
+            "link":"https:\/\/dduconnect.in\/non-tech\/2020\/06\/20\/an-open-letter-to-billgates\/attachment\/ol_bill-gates\/",
             "title":{
                "rendered":"ol_bill gates"
-            },
+            
+},
             "author":20,
             "caption":{
                "rendered":""
-            },
+            
+},
             "alt_text":"",
             "media_type":"image",
             "mime_type":"image\/jpeg",
@@ -137,57 +173,66 @@
                      "height":300,
                      "mime_type":"image\/jpeg",
                      "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/06\/ol_bill-gates-300x300.jpg"
-                  },
+                  
+},
                   "large":{
                      "file":"ol_bill-gates-1024x600.jpg",
                      "width":1024,
                      "height":600,
                      "mime_type":"image\/jpeg",
                      "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/06\/ol_bill-gates-1024x600.jpg"
-                  },
+                  
+},
                   "thumbnail":{
                      "file":"ol_bill-gates-150x150.jpg",
                      "width":150,
                      "height":150,
                      "mime_type":"image\/jpeg",
                      "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/06\/ol_bill-gates-150x150.jpg"
-                  },
+                  
+},
                   "medium_large":{
                      "file":"ol_bill-gates-768x600.jpg",
                      "width":768,
                      "height":600,
                      "mime_type":"image\/jpeg",
                      "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/06\/ol_bill-gates-768x600.jpg"
-                  },
+                  
+},
                   "1536x1536":{
                      "file":"ol_bill-gates-1536x480.jpg",
                      "width":1536,
                      "height":480,
                      "mime_type":"image\/jpeg",
                      "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/06\/ol_bill-gates-1536x480.jpg"
-                  },
+                  
+},
                   "post-thumbnail":{
                      "file":"ol_bill-gates-280x180.jpg",
                      "width":280,
                      "height":180,
                      "mime_type":"image\/jpeg",
                      "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/06\/ol_bill-gates-280x180.jpg"
-                  },
+                  
+},
                   "awsm_team":{
                      "file":"ol_bill-gates-500x500.jpg",
                      "width":500,
                      "height":500,
                      "mime_type":"image\/jpeg",
                      "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/06\/ol_bill-gates-500x500.jpg"
-                  },
+                  
+},
                   "full":{
                      "file":"ol_bill-gates.jpg",
                      "width":1920,
                      "height":600,
                      "mime_type":"image\/jpeg",
                      "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/06\/ol_bill-gates.jpg"
-                  }
-               },
+                  
+}
+               
+},
                "image_meta":{
                   "aperture":"0",
                   "credit":"",
@@ -202,41 +247,57 @@
                   "orientation":"1",
                   "keywords":[
 
-                  ]
-               }
-            },
+                  
+]
+               
+}
+            
+},
             "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/06\/ol_bill-gates.jpg",
             "_links":{
                "self":[
                   {
                      "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/9138"
-                  }
-               ],
+                  
+}
+               
+],
                "collection":[
                   {
                      "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media"
-                  }
-               ],
+                  
+}
+               
+],
                "about":[
                   {
                      "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/types\/attachment"
-                  }
-               ],
+                  
+}
+               
+],
                "author":[
                   {
                      "embeddable":true,
                      "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/users\/20"
-                  }
-               ],
+                  
+}
+               
+],
                "replies":[
                   {
                      "embeddable":true,
                      "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=9138"
-                  }
-               ]
-            }
-         }
-      ],
+                  
+}
+               
+]
+            
+}
+         
+}
+      
+],
       "wp:term":[
          [
             {
@@ -249,32 +310,44 @@
                   "self":[
                      {
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"
-                     }
-                  ],
+                     
+}
+                  
+],
                   "collection":[
                      {
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"
-                     }
-                  ],
+                     
+}
+                  
+],
                   "about":[
                      {
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"
-                     }
-                  ],
+                     
+}
+                  
+],
                   "wp:post_type":[
                      {
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=84"
-                     }
-                  ],
+                     
+}
+                  
+],
                   "curies":[
                      {
                         "name":"wp",
                         "href":"https:\/\/api.w.org\/{rel}",
                         "templated":true
-                     }
-                  ]
-               }
-            },
+                     
+}
+                  
+]
+               
+}
+            
+},
             {
                "id":90,
                "link":"https:\/\/dduconnect.in\/category\/non-tech\/open-letter\/",
@@ -285,46 +358,63 @@
                   "self":[
                      {
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/90"
-                     }
-                  ],
+                     
+}
+                  
+],
                   "collection":[
                      {
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories"
-                     }
-                  ],
+                     
+}
+                  
+],
                   "about":[
                      {
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"
-                     }
-                  ],
+                     
+}
+                  
+],
                   "up":[
                      {
                         "embeddable":true,
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/categories\/84"
-                     }
-                  ],
+                     
+}
+                  
+],
                   "wp:post_type":[
                      {
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=90"
-                     }
-                  ],
+                     
+}
+                  
+],
                   "curies":[
                      {
                         "name":"wp",
                         "href":"https:\/\/api.w.org\/{rel}",
                         "templated":true
-                     }
-                  ]
-               }
-            }
-         ],
+                     
+}
+                  
+]
+               
+}
+            
+}
+         
+],
          [
 
-         ]
-      ]
-   }
+         
+]
+      
+]
+   
+}
 },
-
 {
    "id":9082,
    "date":"2020-06-17T12:19:36",
