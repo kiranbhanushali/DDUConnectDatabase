@@ -296,7 +296,7 @@
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/taxonomies\/category"
                      }
                   ],
-                  "wp:post_type":[
+                  "wp:post_type":[	
                      {
                         "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts?categories=84"
                      }
