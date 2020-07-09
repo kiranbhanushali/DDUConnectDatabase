@@ -1,5 +1,5 @@
 {
-    "Upcoming":[
+    "Live":[
         {
             "id":"1",
             "title":"Shutterbugs",
@@ -16,27 +16,27 @@
         },
         {
             "id":"3",
+            "title":"Electoral Literacy Program",
+            "date":"day, dd-month",
+            "description":"DDU along with NSS Student Body organized the district level of 'Youth Parliament'.",
+            "icon":"https://dduconnect.in/wp-content/uploads/2019/12/voting.jpeg"
+        }
+    ],
+    "Upcoming":[
+        {
+            "id":"4",
             "title":"Malgadi",
             "date":"day, dd-month",
             "description":"Malgadi is a start-up run by students of our University. It provides students with engineering text and reference books and electronic equipment at reasonable rates. It also organizes technical workshops and seminars.",
             "icon":"https://dduconnect.in/wp-content/uploads/2020/02/Malgadi_Logo.png"
         },
         {
-            "id":"4",
+            "id":"5",
             "title":"The Reader's community",
             "date":"day, dd-month",
             "description":"he Readers’ Community is for the avid readers of our University. It is for all those who love to explore the world of books and want to develop a habit of reading.",
             "icon":"https://dduconnect.in/wp-content/uploads/2020/02/TheReadersCommunity_Logo.jpeg"
         },
-        {
-            "id":"5",
-            "title":"Independence Day",
-            "date":"Saturday, 15th August",
-            "description":"Join us as we celerate our 74th Independence Day.",
-            "icon":"https://dduconnect.in/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-12-at-23.25.06.jpeg"
-        }
-    ],
-    "Live":[
         {
             "id":"6",
             "title":"Decibel",
@@ -53,10 +53,10 @@
         },
         {
             "id":"8",
-            "title":"Electoral Literacy Program",
-            "date":"day, dd-month",
-            "description":"DDU along with NSS Student Body organized the district level of 'Youth Parliament'.",
-            "icon":"https://dduconnect.in/wp-content/uploads/2019/12/voting.jpeg"
+            "title":"Independence Day",
+            "date":"Saturday, 15th August",
+            "description":"Join us as we celerate our 74th Independence Day.",
+            "icon":"https://dduconnect.in/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-12-at-23.25.06.jpeg"
         }
     ]
 }
