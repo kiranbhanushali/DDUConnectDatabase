@@ -1,62 +1,66 @@
-{
-    "Live":[
-        {
-            "id":"1",
-            "title":"Shutterbugs",
-            "date":"day, dd-month",
-            "description":"It is the only photogaphy club of DDU. Shutterbugs organizes various workshops and tours for photography. Put the photographer in you to test by joining this club and keep Shuttering!",
-            "icon":"https://dduconnect.in/wp-content/uploads/2020/02/Shutterbugs_Logo.png"
-        },
-        {
-            "id":"2",
-            "title":"Samvaad",
-            "date":"day, dd-month",
-            "description":"Samvaad, the first communication club of our University is a platform to bring up the hidden speaker residing inside you. Samvaad conducts various events and activities which help students to develop their soft skills and face the social and corporate world.",
-            "icon":"https://dduconnect.in/wp-content/uploads/2020/01/samvaad.png"
-        },
-        {
-            "id":"3",
-            "title":"Electoral Literacy Program",
-            "date":"day, dd-month",
-            "description":"The NSS Spandan Student Body, an active participant of the Electoral Literacy Club from Dharmsinh Desai University organized Electoral Literacy Program for awareness regarding registration of students eligible as voters.",
-            "icon":"https://dduconnect.in/wp-content/uploads/2019/12/voting.jpeg"
-        }
-    ],
-    "Upcoming":[
-        {
-            "id":"4",
-            "title":"Malgadi",
-            "date":"day, dd-month",
-            "description":"Malgadi is a start-up run by students of our University. It provides students with engineering text and reference books and electronic equipment at reasonable rates. It also organizes technical workshops and seminars.",
-            "icon":"https://dduconnect.in/wp-content/uploads/2020/02/Malgadi_Logo.png"
-        },
-        {
-            "id":"5",
-            "title":"The Reader's community",
-            "date":"day, dd-month",
-            "description":"he Readers’ Community is for the avid readers of our University. It is for all those who love to explore the world of books and want to develop a habit of reading.",
-            "icon":"https://dduconnect.in/wp-content/uploads/2020/02/TheReadersCommunity_Logo.jpeg"
-        },
-        {
-            "id":"6",
-            "title":"Decibel",
-            "date":"day, dd-month",
-            "description":"This is the go-to club for all music lovers. Decibel organizes jamming sessions and workshops that focus on singing and musical skills.",
-            "icon":"https://dduconnect.in/wp-content/uploads/2020/02/Decibel_Logo.png"
-        },
-        {
-            "id":"7",
-            "title":"NSS Spandan",
-            "date":"day, dd-month",
-            "description":"NSS-DDU is a social awareness club. It organizes visits, trips, activities and campaigns to raise awareness on several issues. It is also well known for its attempts at breaking Guinness records and has succeeded quite a few times!",
-            "icon":"https://dduconnect.in/wp-content/uploads/2020/02/Spandan_Logo.png"
-        },
-        {
-            "id":"8",
-            "title":"Independence Day",
-            "date":"Saturday, 15th August",
-            "description":"Join us as we celerate our 74th Independence Day.",
-            "icon":"https://dduconnect.in/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-12-at-23.25.06.jpeg"
-        }
-    ]
-}
+[
+    {
+        "id":"1",
+        "title":"Shutterbugs",
+        "Start-date":"10-07-2020",
+        "End-date":"11-07-2020",
+        "description":"It is the only photogaphy club of DDU. Shutterbugs organizes various workshops and tours for photography. Put the photographer in you to test by joining this club and keep Shuttering!",
+        "icon":"https://dduconnect.in/wp-content/uploads/2020/02/Shutterbugs_Logo.png"
+    },
+    {
+        "id":"2",
+        "title":"Samvaad",
+        "Start-date":"10-07-2020",
+        "End-date":"11-07-2020",
+        "description":"Samvaad, the first communication club of our University is a platform to bring up the hidden speaker residing inside you. Samvaad conducts various events and activities which help students to develop their soft skills and face the social and corporate world.",
+        "icon":"https://dduconnect.in/wp-content/uploads/2020/01/samvaad.png"
+    },
+    {
+        "id":"3",
+        "title":"Electoral Literacy Program",
+        "Start-date":"10-07-2020",
+        "End-date":"11-07-2020",
+        "description":"The NSS Spandan Student Body, an active participant of the Electoral Literacy Club from Dharmsinh Desai University organized Electoral Literacy Program for awareness regarding registration of students eligible as voters.",
+        "icon":"https://dduconnect.in/wp-content/uploads/2019/12/voting.jpeg"
+    },
+    {
+        "id":"4",
+        "title":"Malgadi",
+        "Start-date":"20-07-2020",
+        "End-date":"21-07-2020",
+        "description":"Malgadi is a start-up run by students of our University. It provides students with engineering text and reference books and electronic equipment at reasonable rates. It also organizes technical workshops and seminars.",
+        "icon":"https://dduconnect.in/wp-content/uploads/2020/02/Malgadi_Logo.png"
+    },
+    {
+        "id":"5",
+        "title":"The Reader's community",
+        "Start-date":"20-07-2020",
+        "End-date":"21-07-2020",
+        "description":"The Readers’ Community is for the avid readers of our University. It is for all those who love to explore the world of books and want to develop a habit of reading.",
+        "icon":"https://dduconnect.in/wp-content/uploads/2020/02/TheReadersCommunity_Logo.jpeg"
+    },
+    {
+        "id":"6",
+        "title":"Decibel",
+        "Start-date":"20-07-2020",
+        "End-date":"21-07-2020",
+        "description":"This is the go-to club for all music lovers. Decibel organizes jamming sessions and workshops that focus on singing and musical skills.",
+        "icon":"https://dduconnect.in/wp-content/uploads/2020/02/Decibel_Logo.png"
+    },
+    {
+        "id":"7",
+        "title":"NSS Spandan",
+        "Start-date":"20-07-2020",
+        "End-date":"21-07-2020",
+        "description":"NSS-DDU is a social awareness club. It organizes visits, trips, activities and campaigns to raise awareness on several issues. It is also well known for its attempts at breaking Guinness records and has succeeded quite a few times!",
+        "icon":"https://dduconnect.in/wp-content/uploads/2020/02/Spandan_Logo.png"
+    },
+    {
+        "id":"8",
+        "title":"Independence Day",
+        "Start-date":"20-07-2020",
+        "End-date":"21-07-2020",
+        "description":"Join us as we celerate our 74th Independence Day.",
+        "icon":"https://dduconnect.in/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-12-at-23.25.06.jpeg"
+    }
+]
