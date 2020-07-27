@@ -1,6 +1,6 @@
 [
     {
-        "posterVisible": false,
+        "posterVisible": "false",
         "btn_text": "Meet Our Team",
         "webpage_url": "MeetOurTeam",
         "bg_img":"https://stockholdingdms.com/images/bg/testimonial-bg.jpg"
