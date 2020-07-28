@@ -1,6 +1,7 @@
 {
     "posterVisible": true,
+    "buttonVisible": true,
     "btn_text": "WebPage",
     "webpage_url": "https://github.com/kiranbhanushali/DDUConnectDatabase",
-    "bg_img":"https://reactjs.org/logo-og.png"
+    "about_us_video_link": "https://github.com/kiranbhanushali/DDUConnectDatabase"
 }
