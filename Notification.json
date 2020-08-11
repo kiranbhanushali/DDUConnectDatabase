@@ -1,7 +1,7 @@
 {
-    "posterVisible": false,
+    "posterVisible": true,
     "buttonOpacity": 0.7,
     "btn_text": "WebPage",
-    "webpage_url": "https://github.com/kiranbhanushali/DDUConnectDatabase",
+    "webpage_url": "https://dduconnect.in/voting-page/",
     "about_us_video_link": "https://www.youtube.com/embed/UjuUfgjOp4c?rel=0&autoplay=1&showinfo=0&loop=1"
 }
