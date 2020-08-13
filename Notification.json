@@ -1,5 +1,5 @@
 {
-    "posterVisible": true,
+    "posterVisible": false,
     "buttonOpacity": 0.7,
     "btn_text": "Vote Now",
     "webpage_url": "https://dduconnect.in/voting-page/",
