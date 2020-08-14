@@ -79,20 +79,12 @@
         "description":"We all know there's always a beautiful view having natural topography just a window view away. A creative photographer can capture it from different perspective. Share your photographs in the link given below. Landscape | Flowers | Nature | Waterfalls | Sky | Rainfall Theme :- Outside my window. Submit your entries on : bit.ly/omwphotography2020",
         "icon":"https://dduconnect.in/wp-content/uploads/2020/08/Outside-my-window-scaled.jpg"
     },
-     {
+    {
         "id":"11",
-        "title":"Shutterbugs",
-        "Start-date":"14-07-2020",
-        "End-date":"15-07-2020",
-        "description":`Do you’ll wish to have an intellectual discussion with your batchmates on current trends and wish to reignite the flames of patriotism within you? If yes, then fasten your seatbelts and let your thoughts run free on this Independence day, as we are back with a brand new event, “The Virtual Discourse : Where Thoughts Course the Path to the Future.”
-Topics:
-
-National Education Policy 2020.
-Has Twitter become a self proclaimed court of justice?
-Growing prominence of India in global market.
-Date: 15/08/2020
-Time: 5:30 p.m. onwards
-Register at: https://bit.ly/samvaad_TheVirtualDiscourse`,
+        "title":"The virtual Discourse",
+        "Start-date":"14-08-2020",
+        "End-date":"15-08-2020",
+        "description":"Do you'll wish to have an intellectual discussion with your batchmates on current trends and wish to reignite the flames of patriotism within you? If yes, then fasten your seatbelts and let your thoughts run free on this Independence day, as we are back with a brand new event, 'The Virtual Discourse : Where Thoughts Course the Path to the Future.'Topics: 1. National Education Policy 2020. 2. Has Twitter become a self proclaimed court of justice? 3. Growing prominence of India in global market. Date: 15/08/2020 Time: 5:30 p.m. onwards Register at: https://bit.ly/samvaad_TheVirtualDiscourse",
         "icon":"https://dduconnect.in/wp-content/uploads/2020/08/event-151.png"
-    },
+    }
 ]
