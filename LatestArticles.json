@@ -6,8 +6,8 @@
       "guid":{
          "rendered":"https:\/\/dduconnect.in\/?p=16673"
       },
-      "modified":"2020-09-08T11:50:50",
-      "modified_gmt":"2020-09-08T06:20:50",
+      "modified":"2020-09-08T12:31:59",
+      "modified_gmt":"2020-09-08T07:01:59",
       "slug":"the-wrong-parcel-at-the-right-address",
       "status":"publish",
       "type":"post",
@@ -24,7 +24,7 @@
          "protected":false
       },
       "author":22,
-      "featured_media":16678,
+      "featured_media":16685,
       "comment_status":"open",
       "ping_status":"closed",
       "sticky":false,
@@ -83,7 +83,7 @@
          "wp:featuredmedia":[
             {
                "embeddable":true,
-               "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/16678"
+               "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/16685"
             }
          ],
          "wp:attachment":[
@@ -141,13 +141,13 @@
          ],
          "wp:featuredmedia":[
             {
-               "id":16678,
-               "date":"2020-08-26T22:49:24",
-               "slug":"photo-23-08-20-5-27-21-pm",
+               "id":16685,
+               "date":"2020-09-08T13:47:24",
+               "slug":"fiction-2-01",
                "type":"attachment",
-               "link":"https:\/\/dduconnect.in\/photo-23-08-20-5-27-21-pm\/",
+               "link":"https:\/\/dduconnect.in\/fiction-2-01\/",
                "title":{
-                  "rendered":"Photo 23-08-20, 5 27 21 PM"
+                  "rendered":"fiction 2-01"
                },
                "author":22,
                "caption":{
@@ -159,91 +159,91 @@
                "media_details":{
                   "width":1920,
                   "height":600,
-                  "file":"2020\/08\/Photo-23-08-20-5-27-21-PM.jpg",
+                  "file":"2020\/09\/fiction-2-01.jpg",
                   "sizes":{
                      "medium":{
-                        "file":"Photo-23-08-20-5-27-21-PM-300x300.jpg",
+                        "file":"fiction-2-01-300x300.jpg",
                         "width":300,
                         "height":300,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-300x300.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-300x300.jpg"
                      },
                      "large":{
-                        "file":"Photo-23-08-20-5-27-21-PM-1024x600.jpg",
+                        "file":"fiction-2-01-1024x600.jpg",
                         "width":1024,
                         "height":600,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-1024x600.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-1024x600.jpg"
                      },
                      "thumbnail":{
-                        "file":"Photo-23-08-20-5-27-21-PM-150x150.jpg",
+                        "file":"fiction-2-01-150x150.jpg",
                         "width":150,
                         "height":150,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-150x150.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-150x150.jpg"
                      },
                      "medium_large":{
-                        "file":"Photo-23-08-20-5-27-21-PM-768x600.jpg",
+                        "file":"fiction-2-01-768x600.jpg",
                         "width":768,
                         "height":600,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-768x600.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-768x600.jpg"
                      },
                      "thumblist":{
-                        "file":"Photo-23-08-20-5-27-21-PM-300x300.jpg",
+                        "file":"fiction-2-01-300x300.jpg",
                         "width":300,
                         "height":300,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-300x300.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-300x300.jpg"
                      },
                      "meccarouselthumb":{
-                        "file":"Photo-23-08-20-5-27-21-PM-474x324.jpg",
+                        "file":"fiction-2-01-474x324.jpg",
                         "width":474,
                         "height":324,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-474x324.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-474x324.jpg"
                      },
                      "gridsquare":{
-                        "file":"Photo-23-08-20-5-27-21-PM-391x260.jpg",
+                        "file":"fiction-2-01-391x260.jpg",
                         "width":391,
                         "height":260,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-391x260.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-391x260.jpg"
                      },
                      "tileview":{
-                        "file":"Photo-23-08-20-5-27-21-PM-300x400.jpg",
+                        "file":"fiction-2-01-300x400.jpg",
                         "width":300,
                         "height":400,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-300x400.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-300x400.jpg"
                      },
                      "1536x1536":{
-                        "file":"Photo-23-08-20-5-27-21-PM-1536x480.jpg",
+                        "file":"fiction-2-01-1536x480.jpg",
                         "width":1536,
                         "height":480,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-1536x480.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-1536x480.jpg"
                      },
                      "post-thumbnail":{
-                        "file":"Photo-23-08-20-5-27-21-PM-280x180.jpg",
+                        "file":"fiction-2-01-280x180.jpg",
                         "width":280,
                         "height":180,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-280x180.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-280x180.jpg"
                      },
                      "awsm_team":{
-                        "file":"Photo-23-08-20-5-27-21-PM-500x500.jpg",
+                        "file":"fiction-2-01-500x500.jpg",
                         "width":500,
                         "height":500,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM-500x500.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01-500x500.jpg"
                      },
                      "full":{
-                        "file":"Photo-23-08-20-5-27-21-PM.jpg",
+                        "file":"fiction-2-01.jpg",
                         "width":1920,
                         "height":600,
                         "mime_type":"image\/jpeg",
-                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM.jpg"
+                        "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01.jpg"
                      }
                   },
                   "image_meta":{
@@ -251,7 +251,7 @@
                      "credit":"",
                      "camera":"",
                      "caption":"",
-                     "created_timestamp":"1598203641",
+                     "created_timestamp":"0",
                      "copyright":"",
                      "focal_length":"0",
                      "iso":"0",
@@ -263,11 +263,11 @@
                      ]
                   }
                },
-               "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/08\/Photo-23-08-20-5-27-21-PM.jpg",
+               "source_url":"https:\/\/dduconnect.in\/wp-content\/uploads\/2020\/09\/fiction-2-01.jpg",
                "_links":{
                   "self":[
                      {
-                        "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/16678"
+                        "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/16685"
                      }
                   ],
                   "collection":[
@@ -289,7 +289,7 @@
                   "replies":[
                      {
                         "embeddable":true,
-                        "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=16678"
+                        "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/comments?post=16685"
                      }
                   ]
                }
