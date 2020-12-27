@@ -6,8 +6,8 @@
       "guid":{
          "rendered":"https:\/\/dduconnect.in\/?p=17228"
       },
-      "modified":"2020-12-27T11:24:11",
-      "modified_gmt":"2020-12-27T05:54:11",
+      "modified":"2020-12-27T15:44:52",
+      "modified_gmt":"2020-12-27T10:14:52",
       "slug":"heartfullness-meditation-orientation",
       "status":"publish",
       "type":"post",
@@ -24,7 +24,7 @@
          "protected":false
       },
       "author":22,
-      "featured_media":13153,
+      "featured_media":4452,
       "comment_status":"closed",
       "ping_status":"closed",
       "sticky":false,
@@ -69,20 +69,20 @@
          ],
          "version-history":[
             {
-               "count":2,
+               "count":3,
                "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/17228\/revisions"
             }
          ],
          "predecessor-version":[
             {
-               "id":17235,
-               "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/17228\/revisions\/17235"
+               "id":17248,
+               "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/posts\/17228\/revisions\/17248"
             }
          ],
          "wp:featuredmedia":[
             {
                "embeddable":true,
-               "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/13153"
+               "href":"https:\/\/dduconnect.in\/wp-json\/wp\/v2\/media\/4452"
             }
          ],
          "wp:attachment":[
